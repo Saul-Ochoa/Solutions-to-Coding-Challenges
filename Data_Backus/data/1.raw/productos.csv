@@ -1,0 +1,821 @@
+﻿cliente_id,nombre_comercial,canal,region,distrito,fecha_alta,estado
+C00001,Bodega Ramos 115,Bodega,Callao,Cercado,2018-04-13,ACTIVO
+C00002,Restaurante Ramos 759,Restaurante/Bar,Lima Sur,Comas,2024-02-12,ACTIVO
+C00003,Minimarket García 239,Minimarket,Lima Norte,Los Olivos,2023-09-01,ACTIVO
+C00004,Bodega Castillo 430,Bodega,Piura,Villa El Salvador,2020-06-21,INACTIVO
+C00005,Bodega Díaz 826,Bodega,Trujillo,Cercado,2019-10-16,ACTIVO
+C00006,Bodega Díaz 345,Bodega,Lima Sur,Cayma,2019-02-23,ACTIVO
+C00007,Bodega Vargas 271,Bodega,Piura,La Esperanza,2018-06-27,ACTIVO
+C00008,Restaurante Castillo 301,Restaurante/Bar,Arequipa,Los Olivos,2025-01-18,ACTIVO
+C00009,Bodega Ramos 234,Bodega,Lima Sur,Paucarpata,2021-03-31,ACTIVO
+C00010,Minimarket Rojas 465,Minimarket,Arequipa,Cayma,2025-02-16,ACTIVO
+C00011,Bodega Rojas 719,Bodega,Lima Sur,Cercado,2025-08-31,ACTIVO
+C00012,Restaurante García 168,Restaurante/Bar,Trujillo,La Esperanza,2023-03-09,ACTIVO
+C00013,Mayorista Castillo 225,Mayorista,Arequipa,Villa El Salvador,2025-09-05,ACTIVO
+C00014,Bodega Paredes 33,Bodega,Trujillo,Ate,2021-07-16,INACTIVO
+C00015,Bodega Vargas 898,Bodega,Arequipa,Castilla,2026-01-19,ACTIVO
+C00016,Bodega Ramos 470,Bodega,Callao,Los Olivos,2019-08-09,ACTIVO
+C00017,Bodega Rojas 765,Bodega,Trujillo,El Porvenir,2024-07-22,ACTIVO
+C00018,Bodega Huamán 522,Bodega,Lima Sur,Paucarpata,2023-07-15,ACTIVO
+C00019,Bodega Ramos 164,Bodega,Trujillo,El Porvenir,2025-08-19,ACTIVO
+C00020,Bodega Sánchez 542,Bodega,Cusco,Comas,2020-10-26,ACTIVO
+C00021,Bodega Flores 699,Bodega,Callao,Cayma,2024-01-09,ACTIVO
+C00022,Bodega Mamani 162,Bodega,Lima Norte ,Wanchaq,2023-02-02,ACTIVO
+C00023,Bodega Castillo 935,Bodega,Callao,Wanchaq,2019-03-12,ACTIVO
+C00024,Bodega Huamán 383,Bodega,CUSCO,Miraflores,2019-10-24,ACTIVO
+C00025,Bodega Quispe 115,Bodega,Callao,Ate,2022-01-26,INACTIVO
+C00026,Mayorista Flores 88,Mayorista,Piura,Villa El Salvador,2026-03-17,ACTIVO
+C00027,Bodega Huamán 132,Bodega,piura,Ventanilla,2025-05-26,ACTIVO
+C00028,Bodega Vargas 434,Bodega,Cusco,Los Olivos,2020-05-17,ACTIVO
+C00029,Bodega Rojas 409,Bodega,Arequipa,Wanchaq,2025-07-14,ACTIVO
+C00030,Bodega García 231,Bodega,Arequipa,Wanchaq,,ACTIVO
+C00031,Bodega García 8,Bodega,Lima Norte,La Esperanza,2018-10-18,ACTIVO
+C00032,Bodega Torres 73,Bodega,Lima Este,Castilla,2023-10-07,ACTIVO
+C00033,Bodega Huamán 741,Bodega,Piura,Castilla,2024-05-27,ACTIVO
+C00034,Restaurante García 97,Restaurante/Bar,Trujillo,El Porvenir,2019-02-02,ACTIVO
+C00035,Restaurante Chávez 56,Restaurante/Bar,Lima Sur,Los Olivos,2025-07-21,ACTIVO
+C00036,Mayorista Paredes 112,Mayorista,Lima Este,Castilla,2020-10-15,ACTIVO
+C00037,Bodega Huamán 286,Bodega,Lima Este,San Juan,2023-03-10,ACTIVO
+C00038,Bodega Paredes 877,Bodega,Lima Sur,Wanchaq,2024-03-04,ACTIVO
+C00039,Minimarket Flores 949,Minimarket,Lima Centro,Castilla,2020-08-26,ACTIVO
+C00040,Bodega Mamani 925,Bodega,Lima Centro,El Porvenir,2018-08-29,ACTIVO
+C00041,Bodega Díaz 804,Bodega,Callao,Los Olivos,2023-02-07,INACTIVO
+C00042,Bodega Castillo 678,Bodega,Piura,Ventanilla,2026-01-21,ACTIVO
+C00043,Bodega Quispe 594,Bodega,Lima Norte,Comas,2024-01-30,ACTIVO
+C00044,Restaurante Sánchez 515,Restaurante/Bar,Lima Centro,Wanchaq,2023-12-16,ACTIVO
+C00045,Bodega Huamán 71,Bodega,Lima Sur,Ate,2024-09-03,ACTIVO
+C00046,Minimarket Vargas 253,Minimarket,Lima Norte,El Porvenir,2024-06-29,ACTIVO
+C00047,Bodega Vargas 536,Bodega,Callao,Los Olivos,2021-07-19,ACTIVO
+C00048,Bodega Rojas 406,Bodega,Callao,La Esperanza,2019-06-21,ACTIVO
+C00049,Bodega Flores 10,Bodega,Lima Sur,Ate,2023-02-21,ACTIVO
+C00050,Bodega Huamán 956,Bodega,Lima Sur,Cayma,2021-11-30,ACTIVO
+C00051,Restaurante Sánchez 854,Restaurante/Bar,Callao,Villa El Salvador,2024-02-04,ACTIVO
+C00052,Mayorista Quispe 684,Mayorista,Callao,San Juan,2024-03-21,INACTIVO
+C00053,Restaurante Huamán 271,Restaurante/Bar,Lima Sur,Cercado,2019-04-18,ACTIVO
+C00054,Restaurante Vargas 216,Restaurante/Bar,Arequipa,Surco,2026-01-18,INACTIVO
+C00055,Bodega Castillo 501,Bodega,Lima Norte,El Porvenir,2020-10-25,ACTIVO
+C00056,Restaurante Quispe 4,Restaurante/Bar,Lima Centro,Ventanilla,2021-09-28,ACTIVO
+C00057,Bodega Sánchez 565,Bodega,Trujillo,San Juan,2025-11-30,ACTIVO
+C00058,Bodega Chávez 926,Bodega,Cusco,Cayma,2019-09-03,ACTIVO
+C00059,Bodega Huamán 441,Bodega,Lima Norte,La Esperanza,2019-06-07,INACTIVO
+C00060,Bodega Paredes 41,Bodega,Lima Este,Surco,2022-01-05,ACTIVO
+C00061,Bodega Díaz 574,Bodega,Lima Centro,Ate,2022-07-23,INACTIVO
+C00062,Bodega Díaz 831,Bodega,Trujillo,Los Olivos,2019-12-27,INACTIVO
+C00063,Mayorista Díaz 954,Mayorista,Lima Este,Villa El Salvador,2022-08-14,ACTIVO
+C00064,Bodega Mamani 894,Bodega,Piura,Paucarpata,2018-06-08,INACTIVO
+C00065,Bodega Torres 313,Bodega,Lima Este,Ate,2020-07-21,ACTIVO
+C00066,Bodega Rojas 886,Bodega,Callao,Wanchaq,2018-10-12,ACTIVO
+C00067,Bodega Paredes 550,Bodega,Lima Norte,Ventanilla,2021-09-18,ACTIVO
+C00068,Mayorista Rojas 40,Mayorista,Trujillo,Villa El Salvador,2019-03-21,ACTIVO
+C00069,Bodega Vargas 524,Bodega,Trujillo,Ate,2019-04-19,ACTIVO
+C00070,Restaurante Chávez 447,Restaurante/Bar,Cusco,Wanchaq,2018-01-07,ACTIVO
+C00071,Mayorista Chávez 755,Mayorista,Lima Este,San Juan,2025-07-09,INACTIVO
+C00072,Bodega Torres 639,Bodega,Lima Sur,Ventanilla,2021-07-09,ACTIVO
+C00073,Bodega Ramos 419,Bodega,Trujillo,Wanchaq,2021-08-29,ACTIVO
+C00074,Mayorista Mamani 681,Mayorista,Lima Centro,Ventanilla,2022-04-02,ACTIVO
+C00075,Minimarket Paredes 1,Minimarket,Callao,Villa El Salvador,2021-05-29,ACTIVO
+C00076,Minimarket Ramos 330,Minimarket,Piura,Ate,2023-03-20,ACTIVO
+C00077,Mayorista Díaz 923,Mayorista,Lima Sur,Surco,2019-11-27,ACTIVO
+C00078,Bodega Torres 96,Bodega,Callao,Ate,2020-08-20,ACTIVO
+C00079,Bodega Quispe 251,Bodega,Lima Sur,La Esperanza,2023-05-01,ACTIVO
+C00080,Bodega García 736,Bodega,Trujillo,Ate,2025-10-23,ACTIVO
+C00081,Restaurante Chávez 6,Restaurante/Bar,Trujillo,Villa El Salvador,2019-03-13,INACTIVO
+C00082,Minimarket Castillo 476,Minimarket,Cusco,Paucarpata,2018-07-25,ACTIVO
+C00083,Bodega Huamán 821,Bodega,Cusco ,Villa El Salvador,2023-03-19,INACTIVO
+C00084,Bodega Vargas 835,Bodega,Cusco,La Esperanza,2026-01-25,ACTIVO
+C00085,Bodega Huamán 762,Bodega,Piura,Ate,2023-04-29,ACTIVO
+C00086,Bodega Rojas 785,Bodega,Piura,Ventanilla,2023-11-06,ACTIVO
+C00087,Minimarket Chávez 293,Minimarket,Callao,La Esperanza,2020-08-18,ACTIVO
+C00088,Minimarket Huamán 155,Minimarket,Trujillo,Los Olivos,2020-08-05,ACTIVO
+C00089,Restaurante Mamani 418,Restaurante/Bar,Cusco,Comas,2021-09-17,ACTIVO
+C00090,Bodega Mamani 399,Bodega,Lima Norte,Villa El Salvador,2024-07-20,ACTIVO
+C00091,Bodega Sánchez 7,Bodega,Callao,Paucarpata,2021-12-11,INACTIVO
+C00092,Minimarket Paredes 430,Minimarket,Cusco,La Esperanza,2024-01-14,ACTIVO
+C00093,Mayorista García 280,Mayorista,Piura,Cayma,2022-11-21,ACTIVO
+C00094,Bodega Díaz 415,Bodega,Lima Centro,La Esperanza,2026-02-14,ACTIVO
+C00095,Mayorista Vargas 547,Mayorista,Trujillo,Surco,2018-04-21,ACTIVO
+C00096,Bodega Ramos 439,Bodega,Piura,Ventanilla,2019-07-10,ACTIVO
+C00097,Bodega García 466,Bodega,Arequipa,El Porvenir,2021-08-31,ACTIVO
+C00098,Bodega Paredes 432,Bodega,Lima Sur,Los Olivos,2020-10-30,ACTIVO
+C00099,Bodega Torres 230,Bodega,Lima Sur,Surco,2025-04-16,ACTIVO
+C00100,Bodega Quispe 973,Bodega,Lima Este,Miraflores,2020-10-09,ACTIVO
+C00101,Bodega Huamán 485,Bodega,Lima Sur,Ate,2025-07-05,ACTIVO
+C00102,Minimarket Rojas 786,Minimarket,Lima Centro,Los Olivos,2022-02-19,ACTIVO
+C00103,Bodega Díaz 839,Bodega,Callao,Comas,2019-11-02,INACTIVO
+C00104,Bodega Vargas 694,Bodega,trujillo,San Juan,2022-03-18,ACTIVO
+C00105,Restaurante Paredes 643,Restaurante/Bar,Lima Sur,Ventanilla,2020-09-21,INACTIVO
+C00106,Bodega Vargas 825,Bodega,Lima Norte,El Porvenir,2019-05-11,ACTIVO
+C00107,Bodega Flores 519,Bodega,Arequipa,El Porvenir,2025-04-06,ACTIVO
+C00108,Mayorista Flores 444,Mayorista,Piura,El Porvenir,2022-01-23,ACTIVO
+C00109,Bodega Castillo 989,Bodega,Callao,La Esperanza,2025-04-18,ACTIVO
+C00110,Bodega Sánchez 477,Bodega,Callao,Ate,2022-11-20,ACTIVO
+C00111,Bodega Flores 286,Bodega,Lima Este,Miraflores,2023-01-21,ACTIVO
+C00112,Bodega Mamani 345,Bodega,Piura,Cercado,2018-04-28,ACTIVO
+C00113,Restaurante Torres 817,Restaurante/Bar,Arequipa,Miraflores,2020-11-24,ACTIVO
+C00114,Mayorista Rojas 570,Mayorista,CUSCO,Ate,2018-02-11,ACTIVO
+C00115,Minimarket Sánchez 569,Minimarket,Piura,Castilla,2020-09-11,ACTIVO
+C00116,Restaurante Quispe 96,Restaurante/Bar,Lima Este,Ate,2021-04-20,ACTIVO
+C00117,Mayorista Vargas 378,Mayorista,Cusco,El Porvenir,2023-04-23,INACTIVO
+C00118,Bodega Castillo 339,Bodega,Piura,Ventanilla,2021-12-12,ACTIVO
+C00119,Restaurante Chávez 198,Restaurante/Bar,Lima Sur,Villa El Salvador,2021-07-16,ACTIVO
+C00120,Bodega García 222,Bodega,Callao,Villa El Salvador,2023-06-07,ACTIVO
+C00121,Mayorista Rojas 103,Mayorista,Callao,Cercado,2020-03-06,ACTIVO
+C00122,Restaurante Chávez 547,Restaurante/Bar,Callao,Comas,2019-06-03,ACTIVO
+C00123,Bodega Chávez 967,Bodega,Piura,Comas,2019-06-02,ACTIVO
+C00124,Bodega Sánchez 491,Bodega,Arequipa,Comas,2022-12-10,ACTIVO
+C00125,Bodega Paredes 490,Bodega,Lima Sur,San Juan,2019-04-13,ACTIVO
+C00126,Bodega Ramos 55,Bodega,Lima Centro,Ventanilla,2019-09-14,ACTIVO
+C00127,Mayorista García 122,Mayorista,Trujillo,Villa El Salvador,2024-04-04,ACTIVO
+C00128,Restaurante Díaz 536,Restaurante/Bar,Piura,Ventanilla,2022-04-08,INACTIVO
+C00129,Bodega Mamani 313,Bodega,Lima Norte,Los Olivos,2024-05-18,ACTIVO
+C00130,Bodega Díaz 213,Bodega,Lima Este,San Juan,,ACTIVO
+C00131,Bodega Huamán 566,Bodega,Lima Centro,Castilla,2018-11-04,ACTIVO
+C00132,Bodega Sánchez 299,Bodega,Lima Este,Ventanilla,2018-05-14,ACTIVO
+C00133,Bodega Sánchez 73,Bodega,Lima Este,Villa El Salvador,2025-09-16,ACTIVO
+C00134,Bodega Vargas 678,Bodega,Trujillo,Ate,2020-03-21,ACTIVO
+C00135,Restaurante Rojas 847,Restaurante/Bar,Lima Sur,Villa El Salvador,,ACTIVO
+C00136,Bodega Chávez 845,Bodega,Callao,Castilla,2024-05-20,ACTIVO
+C00137,Bodega Chávez 413,Bodega,Cusco,Castilla,2021-01-20,ACTIVO
+C00138,Minimarket Quispe 911,Minimarket,Arequipa,Comas,2022-11-05,ACTIVO
+C00139,Bodega Ramos 857,Bodega,Lima Norte ,Miraflores,2024-06-14,ACTIVO
+C00140,Restaurante Díaz 180,Restaurante/Bar,Cusco,La Esperanza,2023-04-12,ACTIVO
+C00141,Restaurante Vargas 447,Restaurante/Bar,PIURA,Cayma,2025-02-13,ACTIVO
+C00142,Bodega Torres 687,Bodega,Lima Centro,Los Olivos,2019-03-05,ACTIVO
+C00143,Bodega Ramos 968,Bodega,Cusco,San Juan,2022-06-29,ACTIVO
+C00144,Bodega Torres 119,Bodega,Cusco,Comas,2022-07-14,ACTIVO
+C00145,Bodega Castillo 474,Bodega,Lima Norte,Cayma,2022-08-20,ACTIVO
+C00146,Bodega Sánchez 641,Bodega,Lima Norte,Wanchaq,2022-12-16,ACTIVO
+C00147,Bodega Rojas 449,Bodega,Piura,Surco,2025-10-31,ACTIVO
+C00148,Bodega García 727,Bodega,Callao,Wanchaq,2019-10-11,ACTIVO
+C00149,Bodega García 862,Bodega,piura,Castilla,2019-04-10,INACTIVO
+C00150,Bodega Rojas 522,Bodega,Callao,Castilla,2025-11-29,INACTIVO
+C00151,Restaurante García 468,Restaurante/Bar,Lima Centro,La Esperanza,2024-03-07,ACTIVO
+C00152,Bodega Chávez 901,Bodega,Lima Sur,Villa El Salvador,2019-07-14,INACTIVO
+C00153,Bodega Torres 957,Bodega,Callao,Ventanilla,2023-09-11,ACTIVO
+C00154,Bodega Paredes 602,Bodega,Piura,Castilla,2024-07-03,ACTIVO
+C00155,Restaurante Torres 341,Restaurante/Bar,Cusco,La Esperanza,2024-03-10,ACTIVO
+C00156,Bodega García 715,Bodega,Trujillo,Villa El Salvador,2020-09-05,ACTIVO
+C00157,Minimarket Torres 763,Minimarket,Trujillo,Surco,2023-04-22,ACTIVO
+C00158,Mayorista Ramos 156,Mayorista,Lima Norte,Miraflores,2023-07-22,ACTIVO
+C00159,Bodega Flores 896,Bodega,Lima Sur,Castilla,2022-12-09,ACTIVO
+C00160,Minimarket Huamán 420,Minimarket,Lima Centro,Villa El Salvador,2025-05-05,INACTIVO
+C00161,Bodega Torres 639,Bodega,Trujillo,Paucarpata,2025-10-08,ACTIVO
+C00162,Minimarket Ramos 880,Minimarket,TRUJILLO,Paucarpata,2023-12-26,ACTIVO
+C00163,Minimarket Vargas 71,Minimarket,CALLAO,El Porvenir,2020-08-19,INACTIVO
+C00164,Bodega Díaz 649,Bodega,Lima Sur,Los Olivos,2025-11-23,ACTIVO
+C00165,Bodega Quispe 48,Bodega,Lima Norte,Cayma,2021-08-21,ACTIVO
+C00166,Mayorista García 544,Mayorista,Lima Centro,San Juan,2022-08-15,ACTIVO
+C00167,Bodega Mamani 635,Bodega,Lima Este,Miraflores,2025-08-30,ACTIVO
+C00168,Bodega Sánchez 654,Bodega,Piura,Comas,2020-11-06,INACTIVO
+C00169,Bodega Sánchez 923,Bodega,Cusco,Castilla,2021-03-24,INACTIVO
+C00170,Bodega Vargas 307,Bodega,Trujillo,Castilla,2025-03-02,ACTIVO
+C00171,Minimarket García 394,Minimarket,Lima Sur,Miraflores,2023-06-03,ACTIVO
+C00172,Bodega Rojas 717,Bodega,LIMA-N,Ventanilla,2021-04-24,ACTIVO
+C00173,Bodega Paredes 703,Bodega,Piura,La Esperanza,2018-07-20,ACTIVO
+C00174,Bodega Díaz 236,Bodega,Arequipa,Ate,2024-10-22,ACTIVO
+C00175,Minimarket Ramos 774,Minimarket,Lima Centro,La Esperanza,,ACTIVO
+C00176,Bodega Quispe 317,Bodega,Lima Norte,Los Olivos,2022-12-11,ACTIVO
+C00177,Minimarket Rojas 335,Minimarket,Lima Centro,Villa El Salvador,2022-08-29,ACTIVO
+C00178,Bodega Torres 544,Bodega,Callao,Ventanilla,2023-08-18,INACTIVO
+C00179,Restaurante Sánchez 991,Restaurante/Bar,Arequipa,Castilla,2021-04-23,INACTIVO
+C00180,Bodega Huamán 773,Bodega,Trujillo ,San Juan,2020-07-13,ACTIVO
+C00181,Bodega Quispe 271,Bodega,Lima Sur,Surco,2024-01-07,ACTIVO
+C00182,Bodega Rojas 599,Bodega,Arequipa,Ate,2022-04-10,ACTIVO
+C00183,Restaurante Vargas 906,Restaurante/Bar,Arequipa,Ate,2024-04-18,ACTIVO
+C00184,Restaurante Ramos 844,Restaurante/Bar,Callao,San Juan,2023-03-17,ACTIVO
+C00185,Bodega Quispe 312,Bodega,Lima Sur,La Esperanza,2023-07-11,ACTIVO
+C00186,Minimarket Mamani 465,Minimarket,Cusco,Los Olivos,2022-02-28,ACTIVO
+C00187,Mayorista Mamani 671,Mayorista,Piura,Ventanilla,2019-02-10,ACTIVO
+C00188,Bodega Torres 223,Bodega,Piura ,San Juan,2022-12-22,INACTIVO
+C00189,Bodega Torres 558,Bodega,Arequipa,Ventanilla,2025-03-26,ACTIVO
+C00190,Bodega Flores 972,Bodega,Lima Sur,Surco,2023-02-06,ACTIVO
+C00191,Bodega Quispe 52,Bodega,lima este,San Juan,2021-09-28,ACTIVO
+C00192,Restaurante Castillo 213,Restaurante/Bar,Lima Este,Ate,2024-07-29,ACTIVO
+C00193,Restaurante Huamán 808,Restaurante/Bar,Lima Norte,Cercado,2024-09-07,INACTIVO
+C00194,Minimarket Castillo 257,Minimarket,Lima Sur,Comas,2019-12-16,ACTIVO
+C00195,Bodega Torres 809,Bodega,Arequipa,Ventanilla,2020-09-01,ACTIVO
+C00196,Bodega Chávez 432,Bodega,Lima Sur,Castilla,2023-11-25,ACTIVO
+C00197,Minimarket Torres 526,Minimarket,Lima Sur,Ate,2024-08-28,INACTIVO
+C00198,Restaurante Quispe 745,Restaurante/Bar,Cusco,Surco,2025-05-22,INACTIVO
+C00199,Restaurante Quispe 491,Restaurante/Bar,Trujillo,Castilla,2022-07-04,ACTIVO
+C00200,Mayorista Sánchez 76,Mayorista,Arequipa,San Juan,2018-11-27,ACTIVO
+C00201,Minimarket Vargas 649,Minimarket,Cusco,El Porvenir,2024-07-25,INACTIVO
+C00202,Bodega Castillo 302,Bodega,Cusco,San Juan,2023-02-02,ACTIVO
+C00203,Bodega Flores 874,Bodega,Cusco,Ate,2025-05-05,ACTIVO
+C00204,Restaurante García 424,Restaurante/Bar,Piura,Los Olivos,2021-10-20,ACTIVO
+C00205,Bodega Mamani 321,Bodega,Callao,Cercado,2025-06-17,ACTIVO
+C00206,Bodega Sánchez 69,Bodega,Lima Sur,San Juan,2019-01-09,ACTIVO
+C00207,Bodega Torres 832,Bodega,Cusco,Wanchaq,2019-06-17,ACTIVO
+C00208,Minimarket Ramos 126,Minimarket,Arequipa,Villa El Salvador,2022-08-10,ACTIVO
+C00209,Bodega Chávez 53,Bodega,Callao,Miraflores,2021-03-24,ACTIVO
+C00210,Bodega Huamán 673,Bodega,Lima Este,Cayma,2023-05-30,ACTIVO
+C00211,Bodega Torres 118,Bodega,Lima Este,Paucarpata,2021-02-15,ACTIVO
+C00212,Minimarket Díaz 839,Minimarket,Cusco,La Esperanza,2024-12-21,ACTIVO
+C00213,Minimarket Chávez 274,Minimarket,Lima Centro,Villa El Salvador,2018-04-29,ACTIVO
+C00214,Bodega Torres 360,Bodega,Lima Centro,Miraflores,2018-01-26,ACTIVO
+C00215,Minimarket Flores 146,Minimarket,Lima Norte,Wanchaq,2025-02-06,ACTIVO
+C00216,Bodega Mamani 465,Bodega,Lima Centro,Los Olivos,2021-10-28,ACTIVO
+C00217,Bodega Vargas 611,Bodega,Lima Norte,Villa El Salvador,2018-12-14,ACTIVO
+C00218,Minimarket Ramos 84,Minimarket,Piura,Castilla,2021-01-19,ACTIVO
+C00219,Minimarket Mamani 280,Minimarket,Cusco,El Porvenir,2020-06-01,ACTIVO
+C00220,Mayorista Ramos 695,Mayorista,Piura,Ventanilla,2024-08-26,ACTIVO
+C00221,Minimarket Mamani 614,Minimarket,Lima Norte,Ate,2018-08-13,ACTIVO
+C00222,Bodega Díaz 262,Bodega,Arequipa,Castilla,2021-03-31,ACTIVO
+C00223,Bodega Huamán 133,Bodega,Cusco,Wanchaq,2022-04-07,ACTIVO
+C00224,Bodega Ramos 826,Bodega,Lima Sur,Los Olivos,2021-12-21,ACTIVO
+C00225,Bodega Quispe 471,Bodega,Arequipa,Miraflores,2018-11-15,ACTIVO
+C00226,Bodega Ramos 428,Bodega,Lima Sur,Cayma,2021-03-31,ACTIVO
+C00227,Restaurante Vargas 472,Restaurante/Bar,Arequipa,Paucarpata,2025-09-25,ACTIVO
+C00228,Bodega Mamani 604,Bodega,Cusco,Paucarpata,2022-06-29,ACTIVO
+C00229,Restaurante Torres 227,Restaurante/Bar,Lima Centro,Surco,2021-09-26,ACTIVO
+C00230,Minimarket Castillo 199,Minimarket,Arequipa,Paucarpata,2021-12-02,ACTIVO
+C00231,Mayorista Huamán 242,Mayorista,Lima Centro,Cercado,2019-02-26,ACTIVO
+C00232,Bodega Díaz 778,Bodega,Lima Sur,Villa El Salvador,2025-05-08,ACTIVO
+C00233,Bodega Sánchez 773,Bodega,Piura,La Esperanza,2024-04-28,ACTIVO
+C00234,Bodega Ramos 640,Bodega,Arequipa,San Juan,2021-08-16,ACTIVO
+C00235,Bodega Ramos 311,Bodega,Lima Norte,San Juan,,ACTIVO
+C00236,Minimarket Sánchez 39,Minimarket,Arequipa,San Juan,2018-08-22,ACTIVO
+C00237,Bodega Paredes 93,Bodega,Cusco,Miraflores,2024-11-24,ACTIVO
+C00238,Bodega Díaz 757,Bodega,Piura,Miraflores,2018-06-18,ACTIVO
+C00239,Minimarket Torres 620,Minimarket,Cusco,Comas,2023-05-03,ACTIVO
+C00240,Bodega Díaz 921,Bodega,Lima Sur,Cercado,2021-11-07,ACTIVO
+C00241,Restaurante Chávez 449,Restaurante/Bar,Cusco,Cercado,2022-12-05,ACTIVO
+C00242,Restaurante Rojas 397,Restaurante/Bar,Arequipa,Comas,2022-08-02,ACTIVO
+C00243,Restaurante Ramos 343,Restaurante/Bar,Arequipa,Surco,2018-09-27,ACTIVO
+C00244,Bodega Rojas 742,Bodega,Lima Centro,Miraflores,2025-05-13,ACTIVO
+C00245,Bodega Torres 318,Bodega,Trujillo,Los Olivos,2025-05-11,INACTIVO
+C00246,Restaurante Rojas 573,Restaurante/Bar,Arequipa,Surco,2022-03-23,ACTIVO
+C00247,Bodega Chávez 702,Bodega,Lima Sur,El Porvenir,2023-11-27,ACTIVO
+C00248,Restaurante Quispe 372,Restaurante/Bar,Lima Centro ,Villa El Salvador,2021-06-19,ACTIVO
+C00249,Restaurante García 141,Restaurante/Bar,Lima Sur,Villa El Salvador,2019-09-27,ACTIVO
+C00250,Restaurante Díaz 553,Restaurante/Bar,Lima Norte,La Esperanza,2023-11-27,ACTIVO
+C00251,Bodega Huamán 612,Bodega,Lima Centro,Paucarpata,2022-03-24,ACTIVO
+C00252,Bodega Vargas 829,Bodega,Piura,Cayma,2019-11-10,ACTIVO
+C00253,Restaurante García 993,Restaurante/Bar,Callao,Villa El Salvador,2022-12-25,ACTIVO
+C00254,Bodega Castillo 245,Bodega,Piura,Ate,,ACTIVO
+C00255,Bodega Vargas 452,Bodega,Callao,Wanchaq,2023-03-07,ACTIVO
+C00256,Bodega Huamán 837,Bodega,Lima Centro,Comas,2020-03-28,ACTIVO
+C00257,Restaurante Paredes 381,Restaurante/Bar,Lima Sur,Wanchaq,2024-03-21,INACTIVO
+C00258,Minimarket Rojas 86,Minimarket,Callao,Wanchaq,2019-10-19,ACTIVO
+C00259,Bodega Mamani 94,Bodega,Piura,La Esperanza,2020-06-28,ACTIVO
+C00260,Bodega Quispe 406,Bodega,Arequipa,San Juan,2023-08-19,ACTIVO
+C00261,Bodega Quispe 327,Bodega,Arequipa,Cercado,2019-02-10,ACTIVO
+C00262,Restaurante Paredes 484,Restaurante/Bar,Lima Centro,Castilla,2025-10-22,ACTIVO
+C00263,Bodega Quispe 928,Bodega,Lima Norte,Paucarpata,2018-11-21,ACTIVO
+C00264,Bodega Chávez 624,Bodega,Trujillo,Ventanilla,2023-12-02,ACTIVO
+C00265,Restaurante Flores 49,Restaurante/Bar,Trujillo,Miraflores,2020-09-03,ACTIVO
+C00266,Minimarket Flores 857,Minimarket,Cusco,Wanchaq,2023-08-10,ACTIVO
+C00267,Minimarket Chávez 148,Minimarket,Trujillo,Cayma,2021-04-08,ACTIVO
+C00268,Minimarket Mamani 192,Minimarket,Lima Sur,Cayma,2025-06-14,ACTIVO
+C00269,Bodega Castillo 558,Bodega,Cusco,El Porvenir,2023-09-10,INACTIVO
+C00270,Bodega Quispe 651,Bodega,Arequipa,Comas,2022-05-04,ACTIVO
+C00271,Mayorista Flores 354,Mayorista,Lima Sur,Los Olivos,2020-09-14,ACTIVO
+C00272,Mayorista Huamán 46,Mayorista,Cusco,Surco,2021-12-14,ACTIVO
+C00273,Restaurante Díaz 702,Restaurante/Bar,Piura,Villa El Salvador,2023-03-19,ACTIVO
+C00274,Restaurante Chávez 795,Restaurante/Bar,Lima Norte,Comas,2023-02-18,ACTIVO
+C00275,Bodega Quispe 324,Bodega,Cusco,Paucarpata,2021-06-24,ACTIVO
+C00276,Bodega Rojas 38,Bodega,Lima Este,Paucarpata,2025-04-03,ACTIVO
+C00277,Mayorista Paredes 672,Mayorista,Callao,Cayma,2021-09-21,ACTIVO
+C00278,Minimarket Mamani 762,Minimarket,Trujillo,Cercado,2022-12-07,ACTIVO
+C00279,Minimarket Sánchez 377,Minimarket,Callao,Los Olivos,2023-10-28,ACTIVO
+C00280,Mayorista Mamani 617,Mayorista,Cusco,San Juan,2020-01-10,ACTIVO
+C00281,Restaurante Ramos 303,Restaurante/Bar,Piura,El Porvenir,2021-06-09,ACTIVO
+C00282,Bodega Sánchez 360,Bodega,Lima Norte,La Esperanza,2023-01-06,ACTIVO
+C00283,Bodega Mamani 282,Bodega,Lima Norte,Surco,2025-03-04,ACTIVO
+C00284,Bodega Castillo 821,Bodega,lima centro,Paucarpata,2025-08-14,ACTIVO
+C00285,Bodega Díaz 449,Bodega,Lima Centro,Villa El Salvador,2018-05-23,ACTIVO
+C00286,Bodega Torres 393,Bodega,Lima Norte,Surco,2024-05-12,ACTIVO
+C00287,Bodega Torres 381,Bodega,Lima Sur,Wanchaq,2022-12-24,ACTIVO
+C00288,Bodega Torres 666,Bodega,LIMA ESTE,Los Olivos,2021-02-15,ACTIVO
+C00289,Bodega Castillo 397,Bodega,Lima Sur,Ventanilla,2024-04-19,ACTIVO
+C00290,Bodega García 627,Bodega,Piura,Cercado,2021-03-15,INACTIVO
+C00291,Bodega Sánchez 177,Bodega,Piura ,Surco,,ACTIVO
+C00292,Bodega Flores 564,Bodega,Callao,Paucarpata,2024-01-30,ACTIVO
+C00293,Mayorista Chávez 950,Mayorista,Lima Centro,Wanchaq,2025-11-08,ACTIVO
+C00294,Bodega García 812,Bodega,Lima Este,Comas,2019-07-23,ACTIVO
+C00295,Bodega Vargas 378,Bodega,Cusco,La Esperanza,2023-03-30,ACTIVO
+C00296,Bodega Rojas 408,Bodega,Piura,Villa El Salvador,2026-01-15,ACTIVO
+C00297,Mayorista Vargas 76,Mayorista,Arequipa,Castilla,2019-05-29,ACTIVO
+C00298,Bodega Castillo 353,Bodega,Cusco,Cercado,2019-06-10,ACTIVO
+C00299,Minimarket Huamán 444,Minimarket,Lima Norte,Wanchaq,2023-08-22,ACTIVO
+C00300,Bodega Huamán 166,Bodega,Lima Este,Wanchaq,2021-08-14,INACTIVO
+C00301,Bodega Paredes 81,Bodega,Lima Este,Wanchaq,2020-10-23,ACTIVO
+C00302,Bodega Ramos 311,Bodega,Cusco,Surco,2024-11-21,ACTIVO
+C00303,Bodega Vargas 158,Bodega,Arequipa,Miraflores,2019-12-03,ACTIVO
+C00304,Minimarket Paredes 30,Minimarket,Lima Norte ,Surco,2018-11-29,ACTIVO
+C00305,Minimarket Vargas 427,Minimarket,Lima Norte,Surco,2024-12-06,ACTIVO
+C00306,Restaurante Ramos 980,Restaurante/Bar,Piura,Villa El Salvador,2021-05-22,ACTIVO
+C00307,Bodega Rojas 465,Bodega,Lima Norte,El Porvenir,2018-10-26,ACTIVO
+C00308,Bodega García 349,Bodega,Lima Centro,Los Olivos,2024-10-20,ACTIVO
+C00309,Mayorista Paredes 354,Mayorista,Lima Centro,Wanchaq,2022-06-22,ACTIVO
+C00310,Bodega Torres 248,Bodega,Lima Sur,Ate,2023-03-26,ACTIVO
+C00311,Bodega Quispe 298,Bodega,Trujillo,Paucarpata,2022-04-23,INACTIVO
+C00312,Bodega Paredes 336,Bodega,Arequipa,Cercado,2024-06-24,ACTIVO
+C00313,Bodega Castillo 479,Bodega,Callao,San Juan,2023-08-05,INACTIVO
+C00314,Restaurante Castillo 469,Restaurante/Bar,Lima Este,Comas,2020-09-13,ACTIVO
+C00315,Mayorista Sánchez 612,Mayorista,Piura,Comas,2025-05-03,ACTIVO
+C00316,Minimarket Mamani 138,Minimarket,Arequipa,Cayma,2020-12-19,ACTIVO
+C00317,Bodega Quispe 584,Bodega,Lima Este,Ventanilla,,ACTIVO
+C00318,Bodega Castillo 462,Bodega,Callao,Miraflores,2024-03-02,ACTIVO
+C00319,Bodega Flores 132,Bodega,Trujillo,Cayma,2019-02-01,ACTIVO
+C00320,Bodega Torres 774,Bodega,Lima Este,El Porvenir,2019-08-14,ACTIVO
+C00321,Bodega Quispe 40,Bodega,Arequipa,Wanchaq,2019-07-16,ACTIVO
+C00322,Minimarket Vargas 915,Minimarket,Lima Centro,Miraflores,2023-10-13,ACTIVO
+C00323,Minimarket Mamani 632,Minimarket,Arequipa,Wanchaq,2021-05-10,ACTIVO
+C00324,Bodega Chávez 577,Bodega,Piura,Cayma,2021-05-12,ACTIVO
+C00325,Restaurante Flores 427,Restaurante/Bar,Callao,Los Olivos,2024-07-18,INACTIVO
+C00326,Minimarket Ramos 28,Minimarket,Piura,Surco,2024-09-10,ACTIVO
+C00327,Bodega Díaz 593,Bodega,Lima Este,Miraflores,2024-06-23,ACTIVO
+C00328,Bodega Castillo 645,Bodega,Trujillo,Surco,2026-02-01,ACTIVO
+C00329,Bodega Vargas 971,Bodega,Lima Sur,Castilla,2025-11-09,ACTIVO
+C00330,Bodega Huamán 423,Bodega,Lima Este,Villa El Salvador,2025-09-29,ACTIVO
+C00331,Bodega Sánchez 894,Bodega,Lima Norte,Wanchaq,2026-02-27,ACTIVO
+C00332,Mayorista Torres 679,Mayorista,Cusco,Cercado,2023-05-14,ACTIVO
+C00333,Bodega Castillo 351,Bodega,Arequipa,Paucarpata,2024-02-16,ACTIVO
+C00334,Bodega Ramos 823,Bodega,Callao,Ate,2025-10-10,INACTIVO
+C00335,Bodega Rojas 572,Bodega,Lima Este ,Villa El Salvador,2021-05-07,ACTIVO
+C00336,Bodega García 707,Bodega,Piura,Cayma,2025-11-27,ACTIVO
+C00337,Restaurante Díaz 739,Restaurante/Bar,Callao,Surco,2021-01-25,ACTIVO
+C00338,Minimarket Mamani 839,Minimarket,Lima Centro,Ventanilla,2021-11-14,INACTIVO
+C00339,Bodega Flores 355,Bodega,Callao,Ate,2022-12-17,ACTIVO
+C00340,Bodega Castillo 278,Bodega,Callao,Miraflores,2024-04-21,ACTIVO
+C00341,Bodega García 249,Bodega,Cusco,Ate,2018-07-27,ACTIVO
+C00342,Bodega Mamani 339,Bodega,Piura,Villa El Salvador,2026-01-17,ACTIVO
+C00343,Bodega Castillo 952,Bodega,Trujillo,La Esperanza,2019-10-09,INACTIVO
+C00344,Bodega Sánchez 667,Bodega,Callao,Surco,2020-03-27,ACTIVO
+C00345,Bodega Díaz 92,Bodega,Lima Este,Los Olivos,2025-04-25,INACTIVO
+C00346,Bodega Quispe 936,Bodega,Trujillo,Cercado,2019-12-19,INACTIVO
+C00347,Minimarket Quispe 857,Minimarket,Piura,Los Olivos,2022-06-15,INACTIVO
+C00348,Bodega Rojas 898,Bodega,Lima Norte,Miraflores,2018-06-03,ACTIVO
+C00349,Bodega Torres 292,Bodega,Cusco,La Esperanza,2023-02-05,INACTIVO
+C00350,Minimarket Paredes 517,Minimarket,Callao,San Juan,2023-04-02,ACTIVO
+C00351,Bodega Chávez 470,Bodega,Callao,Comas,2025-04-09,ACTIVO
+C00352,Restaurante Díaz 303,Restaurante/Bar,Lima Este,Paucarpata,2024-05-14,ACTIVO
+C00353,Minimarket Mamani 847,Minimarket,Cusco,El Porvenir,2022-10-18,ACTIVO
+C00354,Bodega Huamán 144,Bodega,Arequipa,Comas,2023-05-10,ACTIVO
+C00355,Bodega García 458,Bodega,Arequipa,Los Olivos,2020-12-29,ACTIVO
+C00356,Minimarket Rojas 670,Minimarket,Lima Este,San Juan,2022-01-12,ACTIVO
+C00357,Bodega Huamán 416,Bodega,Cusco,La Esperanza,2025-09-11,ACTIVO
+C00358,Bodega Rojas 707,Bodega,Callao,Ate,2019-04-26,ACTIVO
+C00359,Restaurante Huamán 490,Restaurante/Bar,Piura,Miraflores,2019-09-20,ACTIVO
+C00360,Bodega Chávez 563,Bodega,Cusco,Paucarpata,2023-04-13,ACTIVO
+C00361,Bodega García 697,Bodega,Lima Sur,Wanchaq,2024-09-06,ACTIVO
+C00362,Minimarket Flores 940,Minimarket,Lima Sur,Wanchaq,2024-04-29,INACTIVO
+C00363,Bodega García 587,Bodega,Lima Centro,Paucarpata,2024-01-08,ACTIVO
+C00364,Bodega Flores 697,Bodega,Piura,Wanchaq,2020-04-21,ACTIVO
+C00365,Restaurante Quispe 465,Restaurante/Bar,Cusco,Miraflores,2019-06-25,ACTIVO
+C00366,Bodega Sánchez 689,Bodega,Lima Norte,Paucarpata,2021-06-16,ACTIVO
+C00367,Restaurante García 593,Restaurante/Bar,Lima Norte,Los Olivos,2018-10-27,ACTIVO
+C00368,Restaurante Quispe 958,Restaurante/Bar,Piura,El Porvenir,2018-10-10,ACTIVO
+C00369,Bodega Huamán 785,Bodega,Trujillo,La Esperanza,2025-03-12,ACTIVO
+C00370,Bodega Paredes 940,Bodega,Trujillo,Surco,2022-03-27,INACTIVO
+C00371,Bodega Huamán 670,Bodega,Lima Sur,Wanchaq,2021-11-25,ACTIVO
+C00372,Bodega Huamán 746,Bodega,Lima Norte,Ventanilla,2020-07-01,ACTIVO
+C00373,Bodega Chávez 558,Bodega,Cusco,Ate,2022-10-04,ACTIVO
+C00374,Minimarket Torres 159,Minimarket,Lima Este,Los Olivos,2021-02-03,ACTIVO
+C00375,Bodega Quispe 829,Bodega,Trujillo,La Esperanza,2025-05-28,INACTIVO
+C00376,Bodega Quispe 247,Bodega,Lima Sur,Comas,2020-04-24,ACTIVO
+C00377,Mayorista Ramos 721,Mayorista,Lima Este,El Porvenir,2018-07-19,ACTIVO
+C00378,Bodega Castillo 223,Bodega,Lima Centro,Ventanilla,2018-08-20,ACTIVO
+C00379,Mayorista Chávez 590,Mayorista,Arequipa,La Esperanza,2021-07-30,ACTIVO
+C00380,Bodega Ramos 534,Bodega,Trujillo,Comas,2020-06-24,ACTIVO
+C00381,Bodega Vargas 901,Bodega,Trujillo,Comas,2019-12-19,INACTIVO
+C00382,Minimarket Ramos 688,Minimarket,Cusco,El Porvenir,2022-04-11,ACTIVO
+C00383,Minimarket Rojas 386,Minimarket,Cusco,Paucarpata,2020-01-24,ACTIVO
+C00384,Restaurante Paredes 725,Restaurante/Bar,Piura,Wanchaq,2019-08-15,ACTIVO
+C00385,Minimarket Mamani 571,Minimarket,Lima Centro,Ventanilla,2023-12-11,ACTIVO
+C00386,Mayorista Ramos 81,Mayorista,Arequipa,Los Olivos,2023-01-17,ACTIVO
+C00387,Bodega Quispe 275,Bodega,Lima Norte,Ate,2022-03-25,ACTIVO
+C00388,Bodega Vargas 742,Bodega,Cusco,Ate,2025-07-13,INACTIVO
+C00389,Mayorista Torres 311,Mayorista,Lima Este,Los Olivos,2018-03-04,ACTIVO
+C00390,Mayorista Díaz 491,Mayorista,Lima Este,Ate,2020-09-20,ACTIVO
+C00391,Restaurante Díaz 290,Restaurante/Bar,Piura,Cayma,2022-04-09,ACTIVO
+C00392,Bodega Torres 526,Bodega,Piura,Los Olivos,2023-07-30,ACTIVO
+C00393,Bodega Paredes 328,Bodega,Arequipa,Comas,2020-04-12,ACTIVO
+C00394,Mayorista García 760,Mayorista,Lima Norte,La Esperanza,2019-08-21,ACTIVO
+C00395,Bodega Chávez 428,Bodega,Lima Centro,Ate,2021-04-24,ACTIVO
+C00396,Restaurante Paredes 252,Restaurante/Bar,Cusco,Surco,2023-08-08,ACTIVO
+C00397,Restaurante Díaz 842,Restaurante/Bar,Piura,Los Olivos,2023-06-25,ACTIVO
+C00398,Bodega Huamán 144,Bodega,Cusco,La Esperanza,2026-01-29,INACTIVO
+C00399,Mayorista Ramos 981,Mayorista,Cusco,Paucarpata,2018-08-29,ACTIVO
+C00400,Mayorista Paredes 685,Mayorista,Lima Norte,Paucarpata,2018-07-18,ACTIVO
+C00401,Bodega Flores 725,Bodega,Lima Norte,Castilla,2019-09-11,ACTIVO
+C00402,Restaurante Vargas 654,Restaurante/Bar,Piura,Comas,2025-06-24,ACTIVO
+C00403,Bodega Castillo 422,Bodega,Lima Norte,Ventanilla,2018-02-18,ACTIVO
+C00404,Mayorista Rojas 18,Mayorista,Trujillo,La Esperanza,2023-08-20,ACTIVO
+C00405,Bodega Flores 537,Bodega,Lima Este,Wanchaq,2019-09-02,ACTIVO
+C00406,Restaurante Torres 274,Restaurante/Bar,Lima Sur,El Porvenir,2022-06-14,ACTIVO
+C00407,Bodega García 714,Bodega,Callao,Paucarpata,2020-07-14,ACTIVO
+C00408,Bodega Paredes 666,Bodega,Lima Sur,El Porvenir,2018-05-10,ACTIVO
+C00409,Restaurante Quispe 653,Restaurante/Bar,Lima Centro,Paucarpata,2018-02-08,ACTIVO
+C00410,Bodega Díaz 340,Bodega,Lima Sur,La Esperanza,2024-05-06,ACTIVO
+C00411,Bodega García 923,Bodega,Piura,La Esperanza,2025-10-06,ACTIVO
+C00412,Restaurante Rojas 921,Restaurante/Bar,Lima Norte,Paucarpata,2024-02-03,ACTIVO
+C00413,Restaurante García 602,Restaurante/Bar,Trujillo,Ventanilla,2019-08-14,ACTIVO
+C00414,Bodega García 581,Bodega,Cusco,Villa El Salvador,2022-05-13,ACTIVO
+C00415,Minimarket Díaz 706,Minimarket,Lima Sur,Cayma,2026-02-14,ACTIVO
+C00416,Bodega Mamani 238,Bodega,Arequipa,Miraflores,2018-11-08,INACTIVO
+C00417,Bodega Mamani 993,Bodega,Lima Norte,Villa El Salvador,2021-08-29,INACTIVO
+C00418,Bodega Sánchez 234,Bodega,CUSCO,Cercado,2021-12-28,ACTIVO
+C00419,Minimarket Ramos 390,Minimarket,Callao,Los Olivos,2018-12-18,ACTIVO
+C00420,Mayorista Rojas 158,Mayorista,Lima Centro,Cayma,2022-04-06,ACTIVO
+C00421,Mayorista Flores 6,Mayorista,Piura,Ventanilla,2021-06-16,ACTIVO
+C00422,Mayorista Flores 192,Mayorista,Piura,Wanchaq,2022-11-01,ACTIVO
+C00423,Bodega Quispe 92,Bodega,Cusco,Miraflores,2021-12-20,ACTIVO
+C00424,Bodega Paredes 395,Bodega,Callao,Villa El Salvador,2018-02-20,ACTIVO
+C00425,Bodega Castillo 927,Bodega,Cusco,El Porvenir,2020-09-21,ACTIVO
+C00426,Bodega Rojas 309,Bodega,Piura,Cercado,2021-01-04,ACTIVO
+C00427,Bodega Mamani 307,Bodega,Lima Sur,Ate,2023-06-07,ACTIVO
+C00428,Restaurante Sánchez 609,Restaurante/Bar,Lima Este,Cercado,2024-11-30,ACTIVO
+C00429,Bodega Mamani 341,Bodega,Trujillo,Cayma,2024-12-15,ACTIVO
+C00430,Bodega Mamani 836,Bodega,Lima Centro,Miraflores,2025-04-20,INACTIVO
+C00431,Bodega García 491,Bodega,Lima Centro ,Ventanilla,2021-07-10,ACTIVO
+C00432,Mayorista Ramos 503,Mayorista,Lima Este,Ventanilla,2024-06-16,ACTIVO
+C00433,Bodega Mamani 374,Bodega,Lima Este,Wanchaq,2019-04-12,ACTIVO
+C00434,Bodega Díaz 564,Bodega,piura,Castilla,2018-04-21,ACTIVO
+C00435,Bodega Paredes 710,Bodega,Trujillo,Cercado,2018-10-11,ACTIVO
+C00436,Minimarket García 259,Minimarket,Lima Centro,Villa El Salvador,2025-05-21,ACTIVO
+C00437,Bodega Sánchez 613,Bodega,Trujillo,La Esperanza,2023-05-17,INACTIVO
+C00438,Mayorista Chávez 429,Mayorista,Lima Norte,Cayma,2024-02-05,ACTIVO
+C00439,Minimarket Díaz 550,Minimarket,Lima Sur,Ate,2024-08-29,ACTIVO
+C00440,Bodega Torres 171,Bodega,Lima Norte,Surco,2025-04-04,ACTIVO
+C00441,Bodega Mamani 991,Bodega,Trujillo,San Juan,2021-09-20,ACTIVO
+C00442,Restaurante Castillo 765,Restaurante/Bar,Cusco,Miraflores,2023-10-26,ACTIVO
+C00443,Bodega Torres 401,Bodega,Cusco,Comas,2023-03-12,ACTIVO
+C00444,Bodega Rojas 426,Bodega,Lima Sur,Los Olivos,2018-12-18,ACTIVO
+C00445,Mayorista Rojas 352,Mayorista,Lima Este,Cayma,2023-02-09,ACTIVO
+C00446,Restaurante Sánchez 740,Restaurante/Bar,Piura,Ventanilla,2025-10-24,ACTIVO
+C00447,Restaurante Chávez 118,Restaurante/Bar,Arequipa,Surco,2018-04-03,ACTIVO
+C00448,Mayorista Chávez 250,Mayorista,Lima Centro,Cayma,2023-10-15,ACTIVO
+C00449,Bodega Sánchez 238,Bodega,Lima Centro,Surco,2022-07-18,ACTIVO
+C00450,Bodega Quispe 756,Bodega,Lima Este,El Porvenir,2024-11-20,ACTIVO
+C00451,Mayorista Chávez 220,Mayorista,Callao,Villa El Salvador,2020-04-22,ACTIVO
+C00452,Bodega Vargas 105,Bodega,Lima Centro,Ate,2024-01-09,ACTIVO
+C00453,Bodega Rojas 687,Bodega,Cusco ,Miraflores,2023-06-28,ACTIVO
+C00454,Restaurante Mamani 602,Restaurante/Bar,Arequipa,Castilla,,ACTIVO
+C00455,Bodega Paredes 690,Bodega,Callao,Miraflores,2025-12-01,ACTIVO
+C00456,Bodega Huamán 321,Bodega,Lima Este,Cercado,2019-04-28,ACTIVO
+C00457,Bodega Huamán 524,Bodega,Trujillo,Miraflores,2022-05-11,ACTIVO
+C00458,Bodega Huamán 499,Bodega,Cusco,Surco,2025-02-16,INACTIVO
+C00459,Bodega Huamán 569,Bodega,Piura,Cercado,2019-11-15,ACTIVO
+C00460,Bodega Sánchez 635,Bodega,AREQUIPA,Cercado,2018-08-08,ACTIVO
+C00461,Bodega Mamani 987,Bodega,Cusco,El Porvenir,2024-04-19,ACTIVO
+C00462,Minimarket Mamani 728,Minimarket,Piura,Miraflores,2022-12-24,ACTIVO
+C00463,Minimarket Díaz 226,Minimarket,Lima Norte,Wanchaq,2021-04-11,ACTIVO
+C00464,Bodega Díaz 469,Bodega,Piura,San Juan,2024-05-05,ACTIVO
+C00465,Restaurante Rojas 794,Restaurante/Bar,Arequipa,Villa El Salvador,2024-02-03,ACTIVO
+C00466,Bodega Chávez 452,Bodega,LIMA ESTE,Los Olivos,2024-02-16,ACTIVO
+C00467,Bodega Díaz 254,Bodega,Lima Norte,Cayma,2021-05-04,INACTIVO
+C00468,Restaurante Flores 450,Restaurante/Bar,Lima Este,Los Olivos,2019-04-26,ACTIVO
+C00469,Bodega Torres 882,Bodega,Trujillo,Cercado,2025-12-21,ACTIVO
+C00470,Restaurante Paredes 212,Restaurante/Bar,Arequipa,Miraflores,2018-09-01,ACTIVO
+C00471,Bodega Torres 721,Bodega,Callao,Paucarpata,2021-04-13,ACTIVO
+C00472,Restaurante Ramos 835,Restaurante/Bar,LIMA-C,La Esperanza,2019-01-26,ACTIVO
+C00473,Bodega Rojas 888,Bodega,Lima Centro,Cercado,2025-05-10,ACTIVO
+C00474,Restaurante Chávez 330,Restaurante/Bar,Trujillo,Miraflores,2020-10-10,ACTIVO
+C00475,Bodega Ramos 425,Bodega,Piura,Villa El Salvador,2022-03-17,INACTIVO
+C00476,Restaurante Flores 413,Restaurante/Bar,Callao,La Esperanza,2023-10-13,ACTIVO
+C00477,Bodega Sánchez 336,Bodega,Lima Norte,Paucarpata,2024-07-11,ACTIVO
+C00478,Bodega Chávez 996,Bodega,Arequipa,Villa El Salvador,2023-02-21,ACTIVO
+C00479,Restaurante García 992,Restaurante/Bar,Lima Este,Cayma,2022-10-26,ACTIVO
+C00480,Bodega Torres 561,Bodega,Lima Centro,Castilla,2024-06-25,ACTIVO
+C00481,Minimarket Ramos 781,Minimarket,Lima Norte,Villa El Salvador,2018-07-18,ACTIVO
+C00482,Minimarket Quispe 128,Minimarket,Piura,El Porvenir,2019-10-10,ACTIVO
+C00483,Bodega Chávez 932,Bodega,Callao,La Esperanza,2019-06-25,INACTIVO
+C00484,Minimarket Flores 671,Minimarket,Callao,Surco,2022-01-16,INACTIVO
+C00485,Bodega Huamán 54,Bodega,Callao,Villa El Salvador,2022-06-12,ACTIVO
+C00486,Restaurante Ramos 94,Restaurante/Bar,Lima Sur,Castilla,2025-11-22,ACTIVO
+C00487,Bodega Vargas 232,Bodega,Piura,Los Olivos,2023-10-29,ACTIVO
+C00488,Bodega Flores 881,Bodega,Lima Centro,Ate,2022-09-26,ACTIVO
+C00489,Restaurante Chávez 826,Restaurante/Bar,Lima Sur,La Esperanza,2019-02-24,ACTIVO
+C00490,Restaurante Mamani 793,Restaurante/Bar,Lima Centro,Miraflores,2019-06-30,ACTIVO
+C00491,Bodega Ramos 169,Bodega,Arequipa,Surco,2022-12-08,ACTIVO
+C00492,Minimarket Mamani 631,Minimarket,Piura,San Juan,2025-09-13,INACTIVO
+C00493,Bodega Huamán 771,Bodega,Trujillo,El Porvenir,2019-05-20,ACTIVO
+C00494,Bodega Huamán 254,Bodega,Lima Sur,Miraflores,2021-02-08,ACTIVO
+C00495,Bodega Vargas 292,Bodega,Lima Norte,Surco,2025-09-29,INACTIVO
+C00496,Bodega García 531,Bodega,Cusco,El Porvenir,2024-10-21,ACTIVO
+C00497,Bodega Quispe 803,Bodega,Piura,Ate,2020-09-07,ACTIVO
+C00498,Bodega Vargas 73,Bodega,Lima Norte ,Cercado,2023-12-04,ACTIVO
+C00499,Restaurante Paredes 583,Restaurante/Bar,Arequipa,Cercado,2022-09-20,ACTIVO
+C00500,Restaurante Díaz 75,Restaurante/Bar,Lima Sur,Ate,2018-03-10,ACTIVO
+C00501,Minimarket Quispe 972,Minimarket,Cusco,Los Olivos,2022-06-19,ACTIVO
+C00502,Bodega Mamani 434,Bodega,Trujillo,Wanchaq,2025-11-14,ACTIVO
+C00503,Bodega Huamán 285,Bodega,Callao,La Esperanza,2018-12-09,ACTIVO
+C00504,Mayorista Díaz 160,Mayorista,Arequipa,Surco,2024-01-07,ACTIVO
+C00505,Minimarket Ramos 698,Minimarket,Lima Sur,El Porvenir,2025-03-19,ACTIVO
+C00506,Bodega Paredes 245,Bodega,Lima Este,El Porvenir,2018-08-26,ACTIVO
+C00507,Restaurante Vargas 624,Restaurante/Bar,Callao,Surco,2018-08-14,ACTIVO
+C00508,Mayorista Flores 13,Mayorista,Lima Centro,Cercado,2025-12-09,ACTIVO
+C00509,Restaurante Torres 536,Restaurante/Bar,Callao,Cercado,2023-10-20,ACTIVO
+C00510,Minimarket Paredes 276,Minimarket,Lima Norte,El Porvenir,2019-04-29,ACTIVO
+C00511,Bodega Flores 270,Bodega,Lima Sur,Wanchaq,2025-12-27,ACTIVO
+C00512,Bodega Sánchez 880,Bodega,Lima Centro,Ventanilla,2024-05-10,ACTIVO
+C00513,Restaurante Vargas 691,Restaurante/Bar,Lima Sur,Wanchaq,2026-02-08,ACTIVO
+C00514,Restaurante Paredes 884,Restaurante/Bar,Lima Este,Cayma,2018-02-20,ACTIVO
+C00515,Bodega Huamán 184,Bodega,Cusco,Los Olivos,2018-05-25,ACTIVO
+C00516,Bodega Mamani 230,Bodega,Lima Este,Los Olivos,2021-08-11,ACTIVO
+C00517,Bodega Paredes 80,Bodega,Arequipa,Surco,2024-05-30,INACTIVO
+C00518,Mayorista Huamán 229,Mayorista,LIMA NORTE,La Esperanza,2023-10-14,ACTIVO
+C00519,Restaurante Rojas 793,Restaurante/Bar,Arequipa,Castilla,2021-06-26,ACTIVO
+C00520,Bodega García 299,Bodega,Callao,Ate,2024-04-28,ACTIVO
+C00521,Bodega Vargas 996,Bodega,Lima Este,Wanchaq,2023-07-14,ACTIVO
+C00522,Bodega García 155,Bodega,Trujillo,Wanchaq,2018-01-27,ACTIVO
+C00523,Restaurante Paredes 711,Restaurante/Bar,Arequipa,Surco,2018-02-09,ACTIVO
+C00524,Mayorista Chávez 745,Mayorista,Lima Sur,Ate,2021-06-13,ACTIVO
+C00525,Mayorista Quispe 996,Mayorista,Callao,La Esperanza,2019-08-07,ACTIVO
+C00526,Bodega Paredes 533,Bodega,Arequipa,Los Olivos,2022-08-19,ACTIVO
+C00527,Bodega Flores 518,Bodega,Trujillo,Miraflores,2019-07-01,ACTIVO
+C00528,Bodega Ramos 988,Bodega,Lima Este,Paucarpata,2019-06-20,ACTIVO
+C00529,Bodega Díaz 403,Bodega,Arequipa,Ventanilla,2025-11-10,ACTIVO
+C00530,Restaurante García 140,Restaurante/Bar,Lima Sur,Cercado,2024-07-22,ACTIVO
+C00531,Mayorista Torres 417,Mayorista,Cusco,Villa El Salvador,2019-05-10,ACTIVO
+C00532,Restaurante Rojas 475,Restaurante/Bar,Lima Sur,Villa El Salvador,2020-12-21,ACTIVO
+C00533,Restaurante Paredes 722,Restaurante/Bar,Lima Norte,Paucarpata,2025-10-25,ACTIVO
+C00534,Bodega Flores 729,Bodega,Arequipa,Comas,2020-10-13,ACTIVO
+C00535,Mayorista Rojas 840,Mayorista,LIMA-N,Wanchaq,2019-12-14,ACTIVO
+C00536,Restaurante García 97,Restaurante/Bar,Lima Sur,Cercado,2023-03-08,ACTIVO
+C00537,Mayorista Quispe 851,Mayorista,Lima Centro,El Porvenir,2020-06-29,ACTIVO
+C00538,Bodega Ramos 961,Bodega,Lima Sur,Ventanilla,2025-03-25,INACTIVO
+C00539,Bodega Flores 23,Bodega,Lima Este,Castilla,2018-09-22,ACTIVO
+C00540,Bodega Flores 927,Bodega,Lima Sur,Castilla,,ACTIVO
+C00541,Restaurante Vargas 444,Restaurante/Bar,Trujillo,El Porvenir,2026-02-15,ACTIVO
+C00542,Bodega Huamán 363,Bodega,Lima Centro,Castilla,2020-05-29,INACTIVO
+C00543,Bodega Quispe 629,Bodega,Lima Este,Castilla,2024-12-11,ACTIVO
+C00544,Minimarket Castillo 491,Minimarket,Lima Sur,Cercado,2018-09-07,ACTIVO
+C00545,Bodega Ramos 906,Bodega,Lima Este,Villa El Salvador,2023-11-24,ACTIVO
+C00546,Bodega Quispe 392,Bodega,Arequipa,Villa El Salvador,2025-12-31,ACTIVO
+C00547,Bodega Vargas 515,Bodega,Trujillo,Comas,2021-08-10,ACTIVO
+C00548,Minimarket García 31,Minimarket,Lima Norte,Castilla,2021-02-24,ACTIVO
+C00549,Bodega Díaz 599,Bodega,Lima Centro,Surco,2020-08-11,ACTIVO
+C00550,Mayorista Castillo 836,Mayorista,Lima Este,Villa El Salvador,2018-08-18,ACTIVO
+C00551,Bodega Paredes 866,Bodega,Lima Centro,Cayma,2019-12-13,ACTIVO
+C00552,Restaurante Chávez 368,Restaurante/Bar,Lima Norte,Cayma,2024-08-20,INACTIVO
+C00553,Bodega Vargas 146,Bodega,Lima Este,Villa El Salvador,2024-04-25,INACTIVO
+C00554,Bodega Sánchez 556,Bodega,Lima Centro,San Juan,2021-06-19,ACTIVO
+C00555,Restaurante Vargas 225,Restaurante/Bar,Cusco,Cayma,2018-03-23,INACTIVO
+C00556,Bodega García 826,Bodega,Arequipa,La Esperanza,2019-06-19,ACTIVO
+C00557,Bodega Paredes 332,Bodega,Lima Norte,Los Olivos,2018-09-01,INACTIVO
+C00558,Bodega Díaz 114,Bodega,Arequipa ,Los Olivos,2023-11-26,INACTIVO
+C00559,Mayorista Mamani 601,Mayorista,Arequipa,Cercado,2019-02-18,INACTIVO
+C00560,Minimarket Chávez 972,Minimarket,Piura,Cercado,2022-11-25,ACTIVO
+C00561,Minimarket Castillo 711,Minimarket,Arequipa,Miraflores,2024-11-18,ACTIVO
+C00562,Bodega Mamani 315,Bodega,Callao,Los Olivos,2025-09-21,ACTIVO
+C00563,Bodega Chávez 972,Bodega,Trujillo,Villa El Salvador,2024-06-04,INACTIVO
+C00564,Bodega Quispe 187,Bodega,Arequipa,Miraflores,2024-10-03,ACTIVO
+C00565,Bodega Vargas 107,Bodega,Lima Centro,San Juan,2023-07-26,ACTIVO
+C00566,Bodega Torres 172,Bodega,Lima Sur,Surco,2025-02-18,ACTIVO
+C00567,Bodega Torres 458,Bodega,Callao,Los Olivos,2018-02-16,ACTIVO
+C00568,Bodega Rojas 806,Bodega,Lima Norte,Castilla,2019-03-19,ACTIVO
+C00569,Restaurante Huamán 906,Restaurante/Bar,Piura,Cayma,2022-08-23,ACTIVO
+C00570,Bodega Flores 849,Bodega,Lima Este,San Juan,2023-05-18,ACTIVO
+C00571,Bodega Quispe 302,Bodega,Arequipa,San Juan,2018-03-24,ACTIVO
+C00572,Mayorista Huamán 910,Mayorista,Lima Centro,Wanchaq,2022-03-18,INACTIVO
+C00573,Bodega Flores 347,Bodega,Piura,El Porvenir,2024-08-30,INACTIVO
+C00574,Minimarket Huamán 622,Minimarket,Lima Centro,Cayma,2022-11-14,ACTIVO
+C00575,Restaurante García 420,Restaurante/Bar,Cusco,Los Olivos,2025-10-26,ACTIVO
+C00576,Restaurante Ramos 289,Restaurante/Bar,Lima Este,El Porvenir,2021-05-03,ACTIVO
+C00577,Bodega Paredes 503,Bodega,Lima Norte,El Porvenir,2019-09-22,ACTIVO
+C00578,Restaurante Paredes 678,Restaurante/Bar,Piura,Comas,2025-01-04,ACTIVO
+C00579,Bodega Ramos 299,Bodega,Piura,Ventanilla,2018-12-02,ACTIVO
+C00580,Bodega Sánchez 501,Bodega,Callao,Wanchaq,2025-05-31,ACTIVO
+C00581,Bodega Torres 907,Bodega,Arequipa,Comas,2022-04-12,ACTIVO
+C00582,Restaurante Sánchez 270,Restaurante/Bar,Callao,Cercado,2020-07-15,ACTIVO
+C00583,Bodega Ramos 100,Bodega,Arequipa,El Porvenir,2018-12-18,INACTIVO
+C00584,Bodega Vargas 233,Bodega,Lima Norte,Paucarpata,2024-03-17,ACTIVO
+C00585,Minimarket Castillo 704,Minimarket,Lima Este,San Juan,2023-04-29,ACTIVO
+C00586,Bodega Paredes 732,Bodega,Cusco,Wanchaq,2018-05-23,ACTIVO
+C00587,Bodega Ramos 636,Bodega,LIMA-S,Cercado,2019-08-27,INACTIVO
+C00588,Bodega Huamán 996,Bodega,Lima Este,El Porvenir,2020-05-17,ACTIVO
+C00589,Bodega Ramos 446,Bodega,Lima Centro,Ventanilla,2020-04-07,ACTIVO
+C00590,Bodega Chávez 937,Bodega,Lima Sur,El Porvenir,2018-10-02,ACTIVO
+C00591,Bodega Paredes 283,Bodega,Piura,Comas,2023-10-30,ACTIVO
+C00592,Minimarket Vargas 602,Minimarket,Trujillo,Cercado,2023-11-11,ACTIVO
+C00593,Bodega Vargas 597,Bodega,Lima Sur,San Juan,2019-02-15,ACTIVO
+C00594,Bodega Paredes 549,Bodega,Trujillo,Surco,2021-11-09,ACTIVO
+C00595,Restaurante Vargas 485,Restaurante/Bar,Lima Centro,Cercado,2018-06-03,ACTIVO
+C00596,Bodega Ramos 711,Bodega,Lima Norte,La Esperanza,2022-07-04,ACTIVO
+C00597,Minimarket García 51,Minimarket,Callao,Comas,2023-05-01,ACTIVO
+C00598,Bodega Díaz 311,Bodega,Callao,Paucarpata,2021-06-27,ACTIVO
+C00599,Bodega Flores 996,Bodega,Lima Centro,Los Olivos,2020-07-22,ACTIVO
+C00600,Bodega Paredes 329,Bodega,Trujillo,San Juan,2021-01-08,ACTIVO
+C00601,Bodega García 936,Bodega,Piura,Paucarpata,2022-07-26,ACTIVO
+C00602,Bodega Quispe 528,Bodega,Lima Sur,Wanchaq,2019-10-14,ACTIVO
+C00603,Bodega Díaz 872,Bodega,Lima Norte,La Esperanza,2023-11-18,ACTIVO
+C00604,Bodega Paredes 60,Bodega,Lima Norte,La Esperanza,2020-10-18,ACTIVO
+C00605,Bodega García 281,Bodega,Piura,Surco,2022-02-17,INACTIVO
+C00606,Bodega Ramos 32,Bodega,Arequipa,Castilla,2020-09-17,ACTIVO
+C00607,Bodega Paredes 486,Bodega,Cusco,Cercado,2024-07-31,ACTIVO
+C00608,Bodega Rojas 767,Bodega,Lima Sur,El Porvenir,2025-09-22,ACTIVO
+C00609,Bodega Paredes 586,Bodega,Lima Este,Surco,2020-05-27,ACTIVO
+C00610,Minimarket Ramos 420,Minimarket,Lima Norte,Villa El Salvador,2023-10-04,ACTIVO
+C00611,Bodega Sánchez 934,Bodega,Lima Centro,Comas,2019-06-26,ACTIVO
+C00612,Mayorista Vargas 825,Mayorista,Callao,El Porvenir,2021-06-05,INACTIVO
+C00613,Minimarket Sánchez 259,Minimarket,Piura,Wanchaq,2020-06-12,ACTIVO
+C00614,Bodega Mamani 599,Bodega,Lima Norte,Surco,2019-02-24,INACTIVO
+C00615,Restaurante Paredes 384,Restaurante/Bar,Callao,San Juan,2024-04-18,ACTIVO
+C00616,Restaurante Torres 284,Restaurante/Bar,Arequipa,Ventanilla,2025-03-08,ACTIVO
+C00617,Bodega Ramos 306,Bodega,Lima Centro,Ate,2020-02-11,INACTIVO
+C00618,Bodega Díaz 878,Bodega,Trujillo,Surco,2024-09-23,ACTIVO
+C00619,Mayorista Quispe 672,Mayorista,Callao,El Porvenir,2023-07-31,ACTIVO
+C00620,Minimarket Chávez 37,Minimarket,Lima Este,Los Olivos,2024-07-16,ACTIVO
+C00621,Bodega Castillo 654,Bodega,Arequipa,Paucarpata,2023-05-03,ACTIVO
+C00622,Bodega Ramos 898,Bodega,Lima Centro,Castilla,2024-04-05,ACTIVO
+C00623,Bodega Rojas 743,Bodega,Lima Centro ,Surco,2024-04-08,ACTIVO
+C00624,Bodega Torres 229,Bodega,Trujillo,Cayma,2021-06-11,ACTIVO
+C00625,Bodega Vargas 302,Bodega,Lima Sur,Paucarpata,2023-03-15,ACTIVO
+C00626,Bodega Vargas 967,Bodega,Lima Sur,Ate,2024-12-17,ACTIVO
+C00627,Bodega Paredes 698,Bodega,Cusco,Comas,2022-04-13,INACTIVO
+C00628,Minimarket Huamán 141,Minimarket,Arequipa,Miraflores,2020-03-31,INACTIVO
+C00629,Bodega Sánchez 147,Bodega,Lima Centro,Castilla,2021-07-19,ACTIVO
+C00630,Bodega Huamán 321,Bodega,Lima Norte,Ventanilla,2025-02-11,ACTIVO
+C00631,Minimarket Díaz 173,Minimarket,Lima Centro,Villa El Salvador,2024-06-18,ACTIVO
+C00632,Restaurante Huamán 630,Restaurante/Bar,Trujillo,Castilla,2022-11-12,ACTIVO
+C00633,Bodega Quispe 547,Bodega,Arequipa ,Villa El Salvador,2020-03-27,ACTIVO
+C00634,Bodega García 19,Bodega,Lima Norte,Ate,2025-08-03,ACTIVO
+C00635,Bodega Torres 320,Bodega,Lima Sur,Miraflores,2019-06-13,ACTIVO
+C00636,Bodega Flores 844,Bodega,CALLAO,Los Olivos,2018-07-07,ACTIVO
+C00637,Bodega Castillo 346,Bodega,Lima Centro,La Esperanza,2022-11-12,ACTIVO
+C00638,Bodega Díaz 193,Bodega,Trujillo,Ate,2019-11-07,ACTIVO
+C00639,Bodega Huamán 217,Bodega,Cusco,Cayma,2018-03-31,ACTIVO
+C00640,Bodega Díaz 39,Bodega,Callao,Miraflores,2022-03-17,ACTIVO
+C00641,Bodega Quispe 678,Bodega,Lima Norte,San Juan,2019-03-19,ACTIVO
+C00642,Bodega Mamani 127,Bodega,Callao,Cercado,,ACTIVO
+C00643,Bodega Ramos 646,Bodega,Callao,San Juan,2018-02-08,ACTIVO
+C00644,Bodega Rojas 638,Bodega,Lima Centro,La Esperanza,2024-10-16,ACTIVO
+C00645,Bodega Chávez 633,Bodega,Callao,San Juan,2019-04-28,ACTIVO
+C00646,Restaurante Vargas 205,Restaurante/Bar,Cusco ,Los Olivos,2020-12-13,ACTIVO
+C00647,Bodega Huamán 41,Bodega,Piura,Los Olivos,2024-02-24,INACTIVO
+C00648,Minimarket Torres 241,Minimarket,Lima Norte,La Esperanza,2018-01-12,ACTIVO
+C00649,Mayorista Vargas 686,Mayorista,LIMA CENTRO,Los Olivos,2023-07-17,ACTIVO
+C00650,Bodega Rojas 660,Bodega,Piura ,Ventanilla,2020-08-04,ACTIVO
+C00651,Bodega Flores 833,Bodega,Lima Norte,Cayma,2019-12-17,ACTIVO
+C00652,Bodega Torres 437,Bodega,Lima Sur,La Esperanza,2019-04-20,ACTIVO
+C00653,Bodega Paredes 142,Bodega,Lima Centro,La Esperanza,2025-06-10,ACTIVO
+C00654,Minimarket Vargas 275,Minimarket,Arequipa,Cercado,2019-01-16,ACTIVO
+C00655,Bodega Mamani 986,Bodega,Callao,Los Olivos,2023-02-13,INACTIVO
+C00656,Bodega Díaz 432,Bodega,Lima Centro,Los Olivos,2025-04-11,ACTIVO
+C00657,Bodega Paredes 164,Bodega,Trujillo,Castilla,2019-03-01,ACTIVO
+C00658,Bodega Ramos 449,Bodega,Trujillo,Miraflores,2020-01-13,ACTIVO
+C00659,Minimarket Ramos 902,Minimarket,Lima Centro,Castilla,2026-02-26,ACTIVO
+C00660,Bodega Mamani 452,Bodega,Lima Sur,Cayma,2018-07-08,ACTIVO
+C00661,Bodega Paredes 695,Bodega,Lima Este ,Wanchaq,2023-11-20,ACTIVO
+C00662,Restaurante Chávez 634,Restaurante/Bar,Trujillo,Ate,2019-01-26,ACTIVO
+C00663,Bodega Ramos 693,Bodega,Trujillo,Paucarpata,2025-03-12,ACTIVO
+C00664,Bodega Vargas 56,Bodega,Lima Centro,Castilla,2018-02-17,INACTIVO
+C00665,Bodega Paredes 170,Bodega,Piura,Cayma,2018-11-03,INACTIVO
+C00666,Bodega Quispe 520,Bodega,Cusco,El Porvenir,2020-07-01,ACTIVO
+C00667,Bodega Flores 471,Bodega,Piura,Castilla,2022-12-25,ACTIVO
+C00668,Bodega Flores 510,Bodega,Lima Norte,El Porvenir,2025-04-30,ACTIVO
+C00669,Bodega Castillo 1,Bodega,Callao,Wanchaq,2019-01-08,ACTIVO
+C00670,Bodega Ramos 468,Bodega,Arequipa,Paucarpata,2021-10-28,ACTIVO
+C00671,Bodega Sánchez 340,Bodega,Piura,Cayma,2024-04-13,ACTIVO
+C00672,Restaurante Flores 100,Restaurante/Bar,Lima Este,Cayma,2025-05-22,ACTIVO
+C00673,Bodega Díaz 299,Bodega,Cusco,San Juan,2024-02-22,ACTIVO
+C00674,Bodega Huamán 505,Bodega,Trujillo,Miraflores,2019-07-30,ACTIVO
+C00675,Bodega Flores 953,Bodega,Lima Este,Villa El Salvador,2022-05-29,ACTIVO
+C00676,Restaurante Torres 111,Restaurante/Bar,Lima Norte,Paucarpata,2022-08-25,ACTIVO
+C00677,Bodega Flores 791,Bodega,Piura,Wanchaq,2023-01-20,ACTIVO
+C00678,Bodega Sánchez 5,Bodega,Lima Norte,El Porvenir,2023-12-13,ACTIVO
+C00679,Restaurante Sánchez 947,Restaurante/Bar,Lima Centro,Cercado,2023-09-14,ACTIVO
+C00680,Restaurante Huamán 107,Restaurante/Bar,Arequipa,El Porvenir,2022-05-06,ACTIVO
+C00681,Mayorista Vargas 938,Mayorista,Lima Este,Cayma,2025-10-07,INACTIVO
+C00682,Bodega Sánchez 825,Bodega,Lima Centro,Los Olivos,2019-07-01,INACTIVO
+C00683,Bodega Castillo 307,Bodega,Cusco,Los Olivos,2025-11-13,ACTIVO
+C00684,Minimarket Castillo 648,Minimarket,Lima Este,Los Olivos,2020-06-09,ACTIVO
+C00685,Restaurante Torres 944,Restaurante/Bar,lima centro,Wanchaq,2025-07-17,ACTIVO
+C00686,Bodega Ramos 331,Bodega,Lima Sur,Wanchaq,2025-12-19,ACTIVO
+C00687,Bodega Vargas 966,Bodega,Trujillo,La Esperanza,2025-06-25,ACTIVO
+C00688,Bodega Rojas 899,Bodega,Lima Norte,Comas,2022-09-27,ACTIVO
+C00689,Mayorista Quispe 687,Mayorista,Lima Este,Villa El Salvador,2018-08-20,ACTIVO
+C00690,Bodega Rojas 700,Bodega,Lima Centro,Los Olivos,2020-10-23,ACTIVO
+C00691,Bodega García 772,Bodega,Lima Norte,Castilla,2024-01-26,ACTIVO
+C00692,Bodega Paredes 692,Bodega,Lima Este,Wanchaq,2024-04-20,ACTIVO
+C00693,Bodega Castillo 804,Bodega,Callao,Comas,2025-10-22,INACTIVO
+C00694,Bodega Mamani 427,Bodega,AREQUIPA,Comas,2025-09-07,ACTIVO
+C00695,Bodega García 636,Bodega,Lima Este,Los Olivos,2022-12-20,ACTIVO
+C00696,Bodega Torres 774,Bodega,Cusco,Ate,2024-08-07,ACTIVO
+C00697,Bodega García 302,Bodega,LIMA CENTRO,Cercado,2023-01-13,INACTIVO
+C00698,Bodega Chávez 527,Bodega,Trujillo,Ventanilla,2019-05-04,ACTIVO
+C00699,Bodega Huamán 165,Bodega,Callao,Castilla,2024-07-20,ACTIVO
+C00700,Bodega Huamán 41,Bodega,Arequipa,Villa El Salvador,2019-09-22,INACTIVO
+C00701,Bodega Vargas 864,Bodega,Callao,Miraflores,2025-06-04,ACTIVO
+C00702,Bodega Flores 803,Bodega,Arequipa,Cercado,2025-12-08,ACTIVO
+C00703,Bodega Díaz 518,Bodega,Trujillo,El Porvenir,2019-10-15,ACTIVO
+C00704,Bodega García 905,Bodega,Arequipa,Ventanilla,2020-05-23,ACTIVO
+C00705,Bodega Díaz 634,Bodega,PIURA,San Juan,2023-12-13,ACTIVO
+C00706,Restaurante Sánchez 247,Restaurante/Bar,Lima Este ,El Porvenir,2025-03-15,INACTIVO
+C00707,Bodega Flores 396,Bodega,Cusco,Comas,2020-11-16,INACTIVO
+C00708,Mayorista Paredes 789,Mayorista,Cusco,Castilla,2022-03-16,ACTIVO
+C00709,Bodega Rojas 920,Bodega,Lima Este,San Juan,2025-04-22,INACTIVO
+C00710,Minimarket Huamán 995,Minimarket,Cusco,San Juan,2024-01-13,ACTIVO
+C00711,Mayorista Ramos 793,Mayorista,Trujillo,Ate,2020-05-23,ACTIVO
+C00712,Bodega Chávez 900,Bodega,Lima Sur,Cercado,2022-11-18,ACTIVO
+C00713,Bodega Chávez 340,Bodega,Lima Sur,Cercado,2018-06-05,ACTIVO
+C00714,Bodega Castillo 73,Bodega,Lima Este,El Porvenir,2024-06-13,ACTIVO
+C00715,Bodega Ramos 415,Bodega,Arequipa,Surco,2022-11-09,ACTIVO
+C00716,Restaurante Quispe 657,Restaurante/Bar,Lima Sur,Miraflores,2026-01-29,ACTIVO
+C00717,Mayorista Paredes 75,Mayorista,Cusco,Villa El Salvador,2022-01-05,ACTIVO
+C00718,Restaurante Vargas 89,Restaurante/Bar,Piura,Paucarpata,2021-02-27,ACTIVO
+C00719,Bodega Sánchez 161,Bodega,Lima Este,El Porvenir,2023-12-26,ACTIVO
+C00720,Minimarket Paredes 559,Minimarket,Lima Centro,La Esperanza,2021-04-23,INACTIVO
+C00721,Restaurante Díaz 888,Restaurante/Bar,AREQUIPA,Wanchaq,2026-03-07,INACTIVO
+C00722,Bodega Huamán 127,Bodega,Lima Norte,El Porvenir,2018-06-21,ACTIVO
+C00723,Bodega Flores 313,Bodega,Arequipa,La Esperanza,2020-05-10,ACTIVO
+C00724,Minimarket Castillo 146,Minimarket,Lima Centro,Paucarpata,2019-10-22,ACTIVO
+C00725,Bodega Flores 186,Bodega,Lima Norte,La Esperanza,2025-07-11,INACTIVO
+C00726,Mayorista Castillo 473,Mayorista,Cusco,Surco,2025-03-25,ACTIVO
+C00727,Bodega Flores 203,Bodega,Piura ,Cercado,2026-02-20,ACTIVO
+C00728,Mayorista García 103,Mayorista,Lima Sur,Cayma,2021-03-13,ACTIVO
+C00729,Bodega Torres 632,Bodega,Callao,Cercado,2025-05-24,ACTIVO
+C00730,Bodega Torres 828,Bodega,Trujillo,Cayma,2021-07-19,ACTIVO
+C00731,Bodega García 730,Bodega,Trujillo,Cayma,2025-03-09,ACTIVO
+C00732,Mayorista Chávez 340,Mayorista,Piura,Villa El Salvador,2023-05-20,ACTIVO
+C00733,Minimarket Castillo 112,Minimarket,Lima Sur,Paucarpata,2019-12-21,ACTIVO
+C00734,Bodega Castillo 202,Bodega,Lima Sur,La Esperanza,2020-12-14,ACTIVO
+C00735,Bodega Castillo 647,Bodega,Trujillo,Ate,2018-05-08,INACTIVO
+C00736,Restaurante Castillo 267,Restaurante/Bar,Cusco,Villa El Salvador,2024-02-05,ACTIVO
+C00737,Bodega Mamani 229,Bodega,Callao,Wanchaq,2024-08-12,ACTIVO
+C00738,Mayorista Mamani 373,Mayorista,Lima Norte,Paucarpata,2023-08-19,INACTIVO
+C00739,Bodega Vargas 701,Bodega,Cusco,Cercado,2019-11-11,ACTIVO
+C00740,Bodega Vargas 676,Bodega,Piura,Comas,2019-08-22,ACTIVO
+C00741,Bodega Sánchez 238,Bodega,Callao,Comas,2018-09-15,ACTIVO
+C00742,Bodega Castillo 930,Bodega,Trujillo,Castilla,2022-01-19,INACTIVO
+C00743,Minimarket Quispe 665,Minimarket,Lima Sur,Wanchaq,2021-08-20,ACTIVO
+C00744,Bodega Rojas 855,Bodega,Cusco,El Porvenir,2020-12-14,ACTIVO
+C00745,Bodega Torres 602,Bodega,Lima Sur,El Porvenir,2025-04-30,INACTIVO
+C00746,Restaurante García 529,Restaurante/Bar,Arequipa,Cayma,2022-07-21,ACTIVO
+C00747,Bodega Sánchez 909,Bodega,Lima Norte,Cercado,2024-10-10,ACTIVO
+C00748,Bodega García 79,Bodega,Callao,Cercado,2023-10-09,ACTIVO
+C00749,Restaurante Vargas 735,Restaurante/Bar,Lima Este,Cayma,2019-04-30,ACTIVO
+C00750,Minimarket Sánchez 692,Minimarket,Piura,Cercado,2023-05-16,ACTIVO
+C00751,Bodega Mamani 23,Bodega,Lima Norte,Miraflores,2020-09-25,ACTIVO
+C00752,Restaurante Ramos 525,Restaurante/Bar,Lima Centro,Ventanilla,2018-06-10,INACTIVO
+C00753,Minimarket Castillo 982,Minimarket,Lima Norte,Los Olivos,2022-07-19,ACTIVO
+C00754,Bodega Rojas 970,Bodega,Lima Este,Castilla,2018-12-18,INACTIVO
+C00755,Bodega Huamán 225,Bodega,Lima Centro,Paucarpata,2022-08-10,ACTIVO
+C00756,Mayorista Vargas 676,Mayorista,Callao,Surco,,ACTIVO
+C00757,Minimarket Sánchez 611,Minimarket,Lima Sur,El Porvenir,2024-08-16,ACTIVO
+C00758,Bodega Quispe 208,Bodega,Cusco,Paucarpata,2023-11-12,ACTIVO
+C00759,Restaurante Flores 182,Restaurante/Bar,Lima Norte,Wanchaq,2023-05-04,ACTIVO
+C00760,Mayorista Flores 96,Mayorista,Lima Centro,Wanchaq,2023-05-30,ACTIVO
+C00761,Bodega Díaz 695,Bodega,Trujillo,Cayma,2025-04-13,INACTIVO
+C00762,Bodega Chávez 543,Bodega,Lima Este,Castilla,2022-10-24,ACTIVO
+C00763,Bodega Mamani 359,Bodega,Lima Sur,Ventanilla,2024-08-09,ACTIVO
+C00764,Minimarket García 932,Minimarket,Callao,Wanchaq,2018-12-10,ACTIVO
+C00765,Bodega García 6,Bodega,Lima Norte,San Juan,2025-12-14,ACTIVO
+C00766,Bodega Mamani 671,Bodega,Arequipa,San Juan,2020-04-21,ACTIVO
+C00767,Mayorista Ramos 600,Mayorista,Callao,El Porvenir,2020-11-04,ACTIVO
+C00768,Restaurante Vargas 283,Restaurante/Bar,Trujillo,El Porvenir,2025-08-19,ACTIVO
+C00769,Bodega Castillo 495,Bodega,Arequipa,Castilla,2020-01-03,ACTIVO
+C00770,Mayorista Rojas 592,Mayorista,Trujillo,Paucarpata,2021-11-11,INACTIVO
+C00771,Bodega Flores 766,Bodega,Piura,Cercado,2020-07-30,ACTIVO
+C00772,Mayorista Castillo 411,Mayorista,Cusco,Surco,2021-10-18,ACTIVO
+C00773,Bodega Huamán 399,Bodega,Lima Norte,Paucarpata,2025-02-17,ACTIVO
+C00774,Bodega Vargas 446,Bodega,Lima Sur,Cayma,2018-12-28,ACTIVO
+C00775,Mayorista Quispe 742,Mayorista,Trujillo,Wanchaq,2022-04-24,ACTIVO
+C00776,Bodega Vargas 59,Bodega,Piura,Ate,2019-12-19,INACTIVO
+C00777,Bodega Díaz 531,Bodega,Lima Este,Miraflores,2021-03-17,ACTIVO
+C00778,Minimarket Chávez 238,Minimarket,Lima Centro,Cayma,2024-11-24,ACTIVO
+C00779,Minimarket Quispe 162,Minimarket,Callao,Cayma,2018-12-22,ACTIVO
+C00780,Minimarket Mamani 601,Minimarket,Cusco,Los Olivos,2020-03-31,ACTIVO
+C00781,Minimarket Flores 563,Minimarket,Cusco,Cayma,2021-03-11,ACTIVO
+C00782,Bodega Paredes 284,Bodega,Lima Este,El Porvenir,2020-07-15,ACTIVO
+C00783,Bodega Rojas 180,Bodega,Cusco,San Juan,2022-07-26,ACTIVO
+C00784,Bodega Torres 970,Bodega,Cusco ,Los Olivos,2019-04-25,ACTIVO
+C00785,Bodega Mamani 577,Bodega,Lima Este,Villa El Salvador,2023-06-04,ACTIVO
+C00786,Restaurante Sánchez 919,Restaurante/Bar,Lima Norte,Ventanilla,2024-07-31,ACTIVO
+C00787,Bodega Ramos 808,Bodega,Lima Este,El Porvenir,2020-06-21,INACTIVO
+C00788,Bodega Castillo 549,Bodega,Callao,San Juan,2018-02-09,ACTIVO
+C00789,Bodega Chávez 841,Bodega,Lima Sur,Cercado,2021-11-01,ACTIVO
+C00790,Restaurante Torres 224,Restaurante/Bar,Callao,Los Olivos,2024-06-07,ACTIVO
+C00791,Bodega García 511,Bodega,Lima Este,Paucarpata,2020-03-28,ACTIVO
+C00792,Bodega García 208,Bodega,Arequipa,San Juan,2020-10-19,ACTIVO
+C00793,Bodega Flores 693,Bodega,Piura,Villa El Salvador,2025-06-10,INACTIVO
+C00794,Bodega Quispe 869,Bodega,Arequipa,Castilla,2023-05-30,INACTIVO
+C00795,Bodega Vargas 890,Bodega,Piura,Villa El Salvador,2021-01-30,INACTIVO
+C00796,Restaurante Rojas 408,Restaurante/Bar,Lima Centro,Villa El Salvador,2020-06-28,ACTIVO
+C00797,Restaurante Castillo 34,Restaurante/Bar,Arequipa,Surco,2023-08-21,ACTIVO
+C00798,Bodega Sánchez 124,Bodega,Cusco,Los Olivos,2025-10-31,ACTIVO
+C00799,Minimarket Ramos 216,Minimarket,Lima Sur,Miraflores,2022-04-04,INACTIVO
+C00800,Restaurante Huamán 562,Restaurante/Bar,Lima Este,Miraflores,2020-12-12,ACTIVO
+C00801,Minimarket Huamán 511,Minimarket,Lima Este,Villa El Salvador,2022-10-03,ACTIVO
+C00802,Bodega Paredes 411,Bodega,Piura,Cercado,2021-02-19,INACTIVO
+C00803,Bodega Ramos 235,Bodega,Callao,Wanchaq,2019-02-14,ACTIVO
+C00804,Bodega Mamani 201,Bodega,Lima Centro,Comas,2019-08-21,ACTIVO
+C00805,Bodega Sánchez 138,Bodega,Cusco,Cayma,2025-01-27,ACTIVO
+C00806,Minimarket Rojas 257,Minimarket,Lima Norte,Los Olivos,2024-04-21,ACTIVO
+C00807,Restaurante García 834,Restaurante/Bar,Piura,San Juan,2020-11-07,ACTIVO
+C00808,Restaurante Torres 267,Restaurante/Bar,Arequipa,La Esperanza,2022-01-18,ACTIVO
+C00809,Bodega Torres 21,Bodega,Lima Sur,Surco,2022-08-14,INACTIVO
+C00810,Bodega García 591,Bodega,Cusco,Villa El Salvador,2024-06-16,ACTIVO
+C00811,Restaurante Torres 690,Restaurante/Bar,Piura,Castilla,2023-09-22,INACTIVO
+C00812,Mayorista Mamani 629,Mayorista,Piura,Cercado,2021-03-19,INACTIVO
+C00813,Bodega Ramos 828,Bodega,Trujillo,Miraflores,2021-10-13,ACTIVO
+C00814,Restaurante Flores 82,Restaurante/Bar,Arequipa,Cayma,2019-10-26,ACTIVO
+C00815,Restaurante Chávez 274,Restaurante/Bar,Trujillo,Castilla,2024-10-15,ACTIVO
+C00816,Bodega Torres 766,Bodega,CUSCO,Cercado,2024-08-01,ACTIVO
+C00817,Bodega Quispe 129,Bodega,Lima Este,Los Olivos,2026-02-28,ACTIVO
+C00818,Bodega Flores 216,Bodega,Trujillo,San Juan,2019-11-15,INACTIVO
+C00819,Bodega Sánchez 562,Bodega,Lima Norte,Wanchaq,2018-08-09,ACTIVO
+C00820,Bodega Flores 107,Bodega,Lima Centro,La Esperanza,2020-12-11,INACTIVO
