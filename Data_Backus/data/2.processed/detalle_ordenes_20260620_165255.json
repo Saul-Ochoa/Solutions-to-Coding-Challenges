@@ -1,0 +1,98 @@
+{
+    "archivo": "detalle_ordenes.csv",
+    "fecha_ejecucion": "2026-06-20 16:52:54",
+    "estado": "error_validacion",
+    "informacion": {
+        "filas": 5787,
+        "columnas": 8,
+        "lista_columnas": [
+            "orden_id",
+            "cliente_id",
+            "fecha_pedido",
+            "fecha_entrega",
+            "fecha_proceso",
+            "canal_venta",
+            "estado",
+            "monto_total"
+        ],
+        "tipos_datos": {
+            "orden_id": "str",
+            "cliente_id": "str",
+            "fecha_pedido": "str",
+            "fecha_entrega": "str",
+            "fecha_proceso": "str",
+            "canal_venta": "str",
+            "estado": "str",
+            "monto_total": "float64"
+        },
+        "datos_faltantes": {
+            "orden_id": 0,
+            "cliente_id": 0,
+            "fecha_pedido": 0,
+            "fecha_entrega": 0,
+            "fecha_proceso": 0,
+            "canal_venta": 0,
+            "estado": 0,
+            "monto_total": 0
+        },
+        "memoria_uso_kb": 2339.3
+    },
+    "errores": [
+        {
+            "tipo": "monto_invalido",
+            "columna": "monto_total",
+            "descripcion": "Montos deben ser mayores a 0",
+            "cantidad_invalidos": 38,
+            "promedio_monto_invalido": -5.675000000000001,
+            "min_monto": -41.61,
+            "max_monto": 0.0
+        }
+    ],
+    "separacion_datos": {
+        "registros_limpios": 5749,
+        "registros_sucios": 38,
+        "porcentaje_limpios": 99.34,
+        "porcentaje_sucios": 0.66
+    },
+    "validaciones_especificas": {
+        "longitud_orden_id": {
+            "valida": true,
+            "longitud": 10
+        },
+        "longitud_cliente_id": {
+            "valida": true,
+            "longitud": 6
+        },
+        "fechas": {
+            "fecha_pedido": {
+                "errores_conversion": 0,
+                "fechas_validas": 5787
+            },
+            "fecha_entrega": {
+                "errores_conversion": 0,
+                "fechas_validas": 5787
+            },
+            "fecha_proceso": {
+                "errores_conversion": 0,
+                "fechas_validas": 5787
+            }
+        },
+        "estados": {
+            "todos_validos": true,
+            "distribucion": {
+                "ENTREGADO": 5094,
+                "ANULADO": 284,
+                "PENDIENTE": 238,
+                "DEVUELTO": 171
+            }
+        },
+        "montos": {
+            "total_registros": 5787,
+            "montos_validos": 5749,
+            "montos_invalidos": 38,
+            "monto_promedio": 372.08114802574363,
+            "monto_min": 2.25,
+            "monto_max": 1540.46
+        }
+    }
+}
