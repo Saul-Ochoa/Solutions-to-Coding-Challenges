@@ -1,0 +1,6 @@
+producto_id,nombre_producto,categoria,marca,presentacion,contenido_ml,unidades_por_caja,precio_lista,volumen,contenido_ml_new,motivo_rechazo
+P-0113,Andes Sport 750ml Botella,Isotónica,Andes Sport,750ml Botella,,24,2.68,750ml,750.0,⚠️ contenido_ml: valor nulo (corregido en contenido_ml_new = 750.0 - Está en cleaned y dirty)
+P-0114,Andes Sport 500ml Botella,Isotónica,Andes Sport,500ml Botella,,30,4.0,500ml,500.0,⚠️ contenido_ml: valor nulo (corregido en contenido_ml_new = 500.0 - Está en cleaned y dirty)
+P-0115,Andes Sport 500ml Botella,Isotónica,Andes Sport,500ml Botella,,30,2.72,500ml,500.0,⚠️ contenido_ml: valor nulo (corregido en contenido_ml_new = 500.0 - Está en cleaned y dirty)
+P-0116,Hidra+ 500ml Botella,Isotónica,Hidra+,500ml Botella,,6,3.87,500ml,500.0,⚠️ contenido_ml: valor nulo (corregido en contenido_ml_new = 500.0 - Está en cleaned y dirty)
+P-0042,Qori Naranja 2.25L Botella,Gaseosa Sabores,Qori Naranja,2.25L Botella,2250.0,24,2.96,2.25L,2250.0,"❌ producto_id: duplicado (CRÍTICO - aparece 2 veces, solo el primero va a cleaned)"
