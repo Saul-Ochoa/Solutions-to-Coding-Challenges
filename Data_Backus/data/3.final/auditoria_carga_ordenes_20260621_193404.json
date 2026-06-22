@@ -1,0 +1,18 @@
+{
+    "fecha_auditoria": "2026-06-21 19:34:04",
+    "servidor": "DESKTOP-BLERSIO",
+    "base_datos": "backus",
+    "tabla": "ordenes",
+    "archivo_origen": "D:\\Github-Time\\Solutions-to-Coding-Challenges\\Data_Backus\\data\\2.processed\\ordenes_cleaned.csv",
+    "nombre_archivo": "ordenes_cleaned.csv",
+    "filas_cargadas": 5602,
+    "filas_existentes": 0,
+    "fecha_inicio": "2026-06-21 19:34:03",
+    "fecha_fin": "2026-06-21 19:34:04",
+    "tiempo_total_segundos": 0.73,
+    "tiempo_total_minutos": 0.01,
+    "tiempo_por_fila": 0.0001,
+    "bloques": 6,
+    "estado": "EXITOSO",
+    "mensaje": "Carga completada exitosamente. 5602 nuevas órdenes insertadas."
+}
