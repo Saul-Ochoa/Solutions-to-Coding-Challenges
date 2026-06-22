@@ -1,0 +1,17 @@
+{
+    "fecha_auditoria": "2026-06-21 17:08:51",
+    "servidor": "DESKTOP-BLERSIO",
+    "base_datos": "backus",
+    "tabla": "producto",
+    "archivo_origen": "D:\\Github-Time\\Solutions-to-Coding-Challenges\\Data_Backus\\data\\2.processed\\productos_cleaned.csv",
+    "nombre_archivo": "productos_cleaned.csv",
+    "filas_cargadas": 120,
+    "fecha_inicio": "2026-06-21 17:08:51",
+    "fecha_fin": "2026-06-21 17:08:51",
+    "tiempo_total_segundos": 0.81,
+    "tiempo_total_minutos": 0.01,
+    "tiempo_por_fila": 0.0068,
+    "bloques": 1,
+    "estado": "EXITOSO",
+    "mensaje": "Carga completada exitosamente en 0.81 segundos"
+}
