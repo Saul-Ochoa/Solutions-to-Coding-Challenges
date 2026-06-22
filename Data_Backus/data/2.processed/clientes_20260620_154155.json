@@ -1,0 +1,56 @@
+{
+    "archivo": "clientes.csv",
+    "fecha_ejecucion": "2026-06-20 15:41:55",
+    "estado": "error_estructura_critico",
+    "mensaje": "FALTAN COLUMNAS OBLIGATORIAS - No se puede procesar el archivo",
+    "informacion": {
+        "filas": 20321,
+        "columnas": 6,
+        "lista_columnas": [
+            "orden_idsss",
+            "linea",
+            "producto_id",
+            "cantidad_unidades",
+            "precio_unitario",
+            "descuento_pct"
+        ],
+        "tipos_datos": {
+            "orden_idsss": "str",
+            "linea": "int64",
+            "producto_id": "str",
+            "cantidad_unidades": "int64",
+            "precio_unitario": "float64",
+            "descuento_pct": "int64"
+        }
+    },
+    "errores": [
+        {
+            "tipo": "estructura_columnas_critico",
+            "descripcion": "El archivo no contiene todas las columnas requeridas",
+            "columnas_faltantes": [
+                "orden_id"
+            ],
+            "columnas_sobrantes": [
+                "orden_idsss"
+            ],
+            "columnas_esperadas": [
+                "precio_unitario",
+                "producto_id",
+                "linea",
+                "cantidad_unidades",
+                "descuento_pct",
+                "orden_id"
+            ],
+            "columnas_actuales": [
+                "precio_unitario",
+                "producto_id",
+                "orden_idsss",
+                "linea",
+                "cantidad_unidades",
+                "descuento_pct"
+            ],
+            "accion": "PROCESO DETENIDO - Se requiere corregir la estructura del archivo"
+        }
+    ],
+    "separacion_datos": {}
+}
