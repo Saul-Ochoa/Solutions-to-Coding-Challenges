@@ -1,0 +1,16 @@
+{
+    "fecha_auditoria": "2026-06-21 16:41:00",
+    "servidor": "DESKTOP-BLERSIO",
+    "base_datos": "backus",
+    "exito": true,
+    "tabla": "cliente",
+    "filas_cargadas": 819,
+    "fecha_inicio": "2026-06-21 16:40:59",
+    "fecha_fin": "2026-06-21 16:41:00",
+    "tiempo_total_segundos": 0.71,
+    "tiempo_total_minutos": 0.01,
+    "tiempo_por_fila": 0.0009,
+    "bloques": 1,
+    "estado": "EXITOSO",
+    "mensaje": "Carga completada exitosamente en 0.71 segundos"
+}
