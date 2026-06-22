@@ -1,0 +1,13 @@
+cliente_id,nombre_comercial,canal,region,distrito,fecha_alta,estado,fecha_alta_original,estado_original,motivo_rechazo
+C00030,Bodega García 231,bodega,arequipa,wanchaq,,ACTIVO,,ACTIVO,⚠️ fecha_alta: valor nulo (Está en cleaned y en dirty - actualizar en dirty y luego pasar a cleaned)
+C00130,Bodega Díaz 213,bodega,lima este,san juan,,ACTIVO,,ACTIVO,⚠️ fecha_alta: valor nulo (Está en cleaned y en dirty - actualizar en dirty y luego pasar a cleaned)
+C00135,Restaurante Rojas 847,restaurante/bar,lima sur,villa el salvador,,ACTIVO,,ACTIVO,⚠️ fecha_alta: valor nulo (Está en cleaned y en dirty - actualizar en dirty y luego pasar a cleaned)
+C00175,Minimarket Ramos 774,minimarket,lima centro,la esperanza,,ACTIVO,,ACTIVO,⚠️ fecha_alta: valor nulo (Está en cleaned y en dirty - actualizar en dirty y luego pasar a cleaned)
+C00235,Bodega Ramos 311,bodega,lima norte,san juan,,ACTIVO,,ACTIVO,⚠️ fecha_alta: valor nulo (Está en cleaned y en dirty - actualizar en dirty y luego pasar a cleaned)
+C00254,Bodega Castillo 245,bodega,piura,ate,,ACTIVO,,ACTIVO,⚠️ fecha_alta: valor nulo (Está en cleaned y en dirty - actualizar en dirty y luego pasar a cleaned)
+C00291,Bodega Sánchez 177,bodega,piura ,surco,,ACTIVO,,ACTIVO,⚠️ fecha_alta: valor nulo (Está en cleaned y en dirty - actualizar en dirty y luego pasar a cleaned)
+C00317,Bodega Quispe 584,bodega,lima este,ventanilla,,ACTIVO,,ACTIVO,⚠️ fecha_alta: valor nulo (Está en cleaned y en dirty - actualizar en dirty y luego pasar a cleaned)
+C00454,Restaurante Mamani 602,restaurante/bar,arequipa,castilla,,ACTIVO,,ACTIVO,⚠️ fecha_alta: valor nulo (Está en cleaned y en dirty - actualizar en dirty y luego pasar a cleaned)
+C00540,Bodega Flores 927,bodega,lima sur,castilla,,ACTIVO,,ACTIVO,⚠️ fecha_alta: valor nulo (Está en cleaned y en dirty - actualizar en dirty y luego pasar a cleaned)
+C00642,Bodega Mamani 127,bodega,callao,cercado,,ACTIVO,,ACTIVO,⚠️ fecha_alta: valor nulo (Está en cleaned y en dirty - actualizar en dirty y luego pasar a cleaned)
+C00756,Mayorista Vargas 676,mayorista,callao,surco,,ACTIVO,,ACTIVO,⚠️ fecha_alta: valor nulo (Está en cleaned y en dirty - actualizar en dirty y luego pasar a cleaned)
