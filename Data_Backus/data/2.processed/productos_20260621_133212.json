@@ -1,0 +1,80 @@
+{
+    "archivo": "productos.csv",
+    "fecha_ejecucion": "2026-06-21 13:32:12",
+    "estado": "error_validacion",
+    "informacion": {
+        "filas": 121,
+        "columnas": 8,
+        "lista_columnas": [
+            "producto_id",
+            "nombre_producto",
+            "categoria",
+            "marca",
+            "presentacion",
+            "contenido_ml",
+            "unidades_por_caja",
+            "precio_lista"
+        ],
+        "tipos_datos": {
+            "producto_id": "str",
+            "nombre_producto": "str",
+            "categoria": "str",
+            "marca": "str",
+            "presentacion": "str",
+            "contenido_ml": "float64",
+            "unidades_por_caja": "int64",
+            "precio_lista": "float64"
+        },
+        "datos_faltantes": {
+            "producto_id": 0,
+            "nombre_producto": 0,
+            "categoria": 0,
+            "marca": 0,
+            "presentacion": 0,
+            "contenido_ml": 4,
+            "unidades_por_caja": 0,
+            "precio_lista": 0
+        },
+        "memoria_uso_kb": 39.65
+    },
+    "errores": [
+        {
+            "tipo": "producto_id_duplicado",
+            "columna": "producto_id",
+            "descripcion": "producto_id duplicado - Solo el primer registro va a cleaned, los duplicados a dirty",
+            "cantidad_invalidos": 1,
+            "ids_duplicados": [
+                "P-0042"
+            ],
+            "total_ids_unicos": 120,
+            "total_registros": 121
+        },
+        {
+            "tipo": "contenido_ml_nulo",
+            "columna": "contenido_ml",
+            "descripcion": "Registros con contenido_ml nulo - 4 fueron corregidos en contenido_ml_new",
+            "cantidad_invalidos": 4,
+            "corregidos": 4,
+            "porcentaje_invalidos": 3.31,
+            "accion_sugerida": "Los registros con contenido_ml nulo van a cleaned (con contenido_ml_new) y a dirty para corrección"
+        }
+    ],
+    "separacion_datos": {
+        "registros_limpios": 120,
+        "registros_sucios": 5,
+        "porcentaje_limpios": 99.17,
+        "porcentaje_sucios": 4.13
+    },
+    "validaciones_especificas": {
+        "total_registros": 121,
+        "registros_limpios": 120,
+        "registros_sucios": 5,
+        "criterios_rechazo": {
+            "producto_id_nulo": 0,
+            "producto_id_duplicado": 1,
+            "contenido_ml_nulo": 4,
+            "otros_nulos": 0
+        },
+        "nota_contenido_ml": "Los registros con contenido_ml nulo fueron corregidos en contenido_ml_new y aparecen en cleaned y dirty"
+    }
+}
